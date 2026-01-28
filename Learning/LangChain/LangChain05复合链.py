@@ -44,3 +44,20 @@ result = full_chain.invoke({"title": "苹果公司在加州发布新款AI芯片"
 
 print(result)
 print(type(result))  # NewsSummary
+
+
+from langchain_core.runnables import RunnableLambda
+
+def debug_print(x):
+    print('中间结果（新闻正文）：', x)
+    return x
+
+debug_node = RunnableLambda(debug_print)
+
+# 组合成一个复合 Chain
+full_chain = news_chain | debug_node | summary_chain
+
+# 调用复合链
+result = full_chain.invoke({"title": "苹果公司在加州发布新款AI芯片"})
+print(result)
+
