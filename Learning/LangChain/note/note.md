@@ -208,7 +208,7 @@ OpenAI / Claude / Gemini：
 如果你愿意，我也可以结合你现在做的 **策略模式 / 校验规则 / RAG / Agent 场景**，直接帮你设计一个 **生产级 ChatPromptTemplate 示例**（包括 system 约束 + Few-shot）。
 
 
-# 2 langchain 在 java中有类似的类库么 如果不支持的话为什么
+# 2、 langchain 在 java中有类似的类库么 如果不支持的话为什么
 
 你想知道 Java 生态中是否有和 LangChain 类似的类库，以及如果没有（或支持度不足）的原因，我先明确回答核心问题，再详细拆解：
 
