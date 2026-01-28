@@ -34,8 +34,17 @@ while True:
     messages_list.append(HumanMessage(content=user_query))
 
     # 2) 调用模型
-    assistant_reply = chain.invoke({"messages": messages_list})
-    print("杨紫：", assistant_reply)
+    # assistant_reply = chain.invoke({"messages": messages_list})
+    # print("杨紫：", assistant_reply)
+
+    # 2) 调用模型 流式
+    assistant_reply = ''
+    print('杨紫:', end=' ')
+    for chunk in chain.stream({"messages": messages_list}):
+        assistant_reply += chunk
+        print(chunk, end="", flush=True)
+    print()
+
 
     # 3) 追加 AI 回复
     messages_list.append(AIMessage(content=assistant_reply))
