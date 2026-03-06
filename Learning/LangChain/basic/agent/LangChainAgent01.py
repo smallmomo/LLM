@@ -58,3 +58,19 @@ result = agent.invoke({
 # 获取回答
 final_message = result["messages"][-1]
 print(f"回答: {final_message.content}")
+
+test_queries = [
+    "北京今天天气怎么样？",
+    "给我讲讲什么是机器学习",
+    "计算 123 * 456",
+]
+
+for query in test_queries:
+    print(f"\n用户: {query}")
+
+    result = agent.invoke({
+        "messages": [{"role": "user", "content": query}]
+    })
+
+    final_message = result["messages"][-1]
+    print(f"助手: {final_message.content}")
