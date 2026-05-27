@@ -1,0 +1,1262 @@
+[
+  {
+    "english": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+    "chinese": "凡是有钱的单身汉，总想娶位太太，这已经成了一条举世公认的真理。",
+    "source": "傲慢与偏见 / Pride and Prejudice"
+  },
+  {
+    "english": "To be, or not to be, that is the question.",
+    "chinese": "生存还是毁灭，这是一个问题。",
+    "source": "哈姆雷特 / Hamlet"
+  },
+  {
+    "english": "It was the best of times, it was the worst of times.",
+    "chinese": "这是最好的时代，这是最坏的时代。",
+    "source": "双城记 / A Tale of Two Cities"
+  },
+  {
+    "english": "All happy families are alike; each unhappy family is unhappy in its own way.",
+    "chinese": "幸福的家庭都是相似的，不幸的家庭各有各的不幸。",
+    "source": "安娜·卡列尼娜 / Anna Karenina"
+  },
+  {
+    "english": "Call me Ishmael.",
+    "chinese": "叫我以实玛利。",
+    "source": "白鲸 / Moby-Dick"
+  },
+  {
+    "english": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
+    "chinese": "只有用心才能看清事物本质，真正重要的东西眼睛是看不见的。",
+    "source": "小王子 / The Little Prince"
+  },
+  {
+    "english": "So we beat on, boats against the current, borne back ceaselessly into the past.",
+    "chinese": "于是我们奋力向前，逆水行舟，被不断地推回，直到回到往昔岁月。",
+    "source": "了不起的盖茨比 / The Great Gatsby"
+  },
+  {
+    "english": "In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since.",
+    "chinese": "在我年纪还轻、阅历不深的时候，我父亲教导过我一句话，我至今还念念不忘。",
+    "source": "了不起的盖茨比 / The Great Gatsby"
+  },
+  {
+    "english": "Whatever our souls are made of, his and mine are the same.",
+    "chinese": "不管我们的灵魂是什么做的，他的和我的是完全一样的。",
+    "source": "呼啸山庄 / Wuthering Heights"
+  },
+  {
+    "english": "I am no bird; and no net ensnares me: I am a free human being with an independent will.",
+    "chinese": "我不是鸟，没有罗网能困住我：我是一个有独立意志的自由人。",
+    "source": "简·爱 / Jane Eyre"
+  },
+  {
+    "english": "Reader, I married him.",
+    "chinese": "读者，我嫁给了他。",
+    "source": "简·爱 / Jane Eyre"
+  },
+  {
+    "english": "The only way out of the labyrinth of suffering is to forgive.",
+    "chinese": "走出痛苦迷宫的唯一方式就是宽恕。",
+    "source": "阿拉斯加的寻找 / Looking for Alaska"
+  },
+  {
+    "english": "Not all those who wander are lost.",
+    "chinese": "并非所有流浪者都迷失了方向。",
+    "source": "魔戒 / The Lord of the Rings"
+  },
+  {
+    "english": "Even the smallest person can change the course of the future.",
+    "chinese": "即使是最渺小的人也能改变未来的走向。",
+    "source": "魔戒 / The Lord of the Rings"
+  },
+  {
+    "english": "It does not do to dwell on dreams and forget to live.",
+    "chinese": "沉湎于虚幻的梦想而忘记现实的生活，这是毫无益处的。",
+    "source": "哈利·波特与魔法石 / Harry Potter"
+  },
+  {
+    "english": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
+    "chinese": "对抗敌人需要很大的勇气，但在朋友面前坚持立场同样需要勇气。",
+    "source": "哈利·波特与魔法石 / Harry Potter"
+  },
+  {
+    "english": "Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.",
+    "chinese": "即使在最黑暗的时刻，幸福也是有迹可循的，只要你记得点亮那盏灯。",
+    "source": "哈利·波特与阿兹卡班囚徒 / Harry Potter"
+  },
+  {
+    "english": "We've all got both light and dark inside us. What matters is the part we choose to act on. That's who we really are.",
+    "chinese": "我们内心都有光明和黑暗的一面，重要的是我们选择做哪一面，那才是真正的我们。",
+    "source": "哈利·波特与凤凰社 / Harry Potter"
+  },
+  {
+    "english": "Do or do not. There is no try.",
+    "chinese": "做或不做，没有尝试。",
+    "source": "星球大战 / Star Wars"
+  },
+  {
+    "english": "May the Force be with you.",
+    "chinese": "愿原力与你同在。",
+    "source": "星球大战 / Star Wars"
+  },
+  {
+    "english": "I'll be back.",
+    "chinese": "我会回来的。",
+    "source": "终结者 / The Terminator"
+  },
+  {
+    "english": "Life is like a box of chocolates. You never know what you're gonna get.",
+    "chinese": "生活就像一盒巧克力，你永远不知道下一颗是什么味道。",
+    "source": "阿甘正传 / Forrest Gump"
+  },
+  {
+    "english": "Stupid is as stupid does.",
+    "chinese": "傻人有傻福。",
+    "source": "阿甘正传 / Forrest Gump"
+  },
+  {
+    "english": "Keep your friends close, but your enemies closer.",
+    "chinese": "亲近你的朋友，但更要亲近你的敌人。",
+    "source": "教父2 / The Godfather Part II"
+  },
+  {
+    "english": "I'm gonna make him an offer he can't refuse.",
+    "chinese": "我会给他一个他无法拒绝的条件。",
+    "source": "教父 / The Godfather"
+  },
+  {
+    "english": "Great men are not born great, they grow great.",
+    "chinese": "伟人并非生来伟大，而是在成长中变得伟大。",
+    "source": "教父 / The Godfather"
+  },
+  {
+    "english": "Frankly, my dear, I don't give a damn.",
+    "chinese": "坦白说，亲爱的，我一点也不在乎。",
+    "source": "乱世佳人 / Gone with the Wind"
+  },
+  {
+    "english": "After all, tomorrow is another day.",
+    "chinese": "毕竟，明天又是新的一天。",
+    "source": "乱世佳人 / Gone with the Wind"
+  },
+  {
+    "english": "Here's looking at you, kid.",
+    "chinese": "永志不忘，孩子。",
+    "source": "卡萨布兰卡 / Casablanca"
+  },
+  {
+    "english": "Of all the gin joints in all the towns in all the world, she walks into mine.",
+    "chinese": "世界上有那么多城镇，城镇里有那么多酒馆，她偏偏走进了我这一家。",
+    "source": "卡萨布兰卡 / Casablanca"
+  },
+  {
+    "english": "You talking to me? You talking to me?",
+    "chinese": "你在跟我说话？你在跟我说话？",
+    "source": "出租车司机 / Taxi Driver"
+  },
+  {
+    "english": "Nobody puts Baby in a corner.",
+    "chinese": "没人能把宝贝逼到角落里。",
+    "source": "辣身舞 / Dirty Dancing"
+  },
+  {
+    "english": "May the odds be ever in your favor.",
+    "chinese": "愿好运永远眷顾你。",
+    "source": "饥饿游戏 / The Hunger Games"
+  },
+  {
+    "english": "Winter is coming.",
+    "chinese": "凛冬将至。",
+    "source": "权力的游戏 / Game of Thrones"
+  },
+  {
+    "english": "When you play the game of thrones, you win or you die. There is no middle ground.",
+    "chinese": "在权力的游戏中，不赢则死，没有中间地带。",
+    "source": "权力的游戏 / Game of Thrones"
+  },
+  {
+    "english": "A lion does not concern himself with the opinion of sheep.",
+    "chinese": "狮子不会在意绵羊的看法。",
+    "source": "权力的游戏 / Game of Thrones"
+  },
+  {
+    "english": "Chaos isn't a pit. Chaos is a ladder.",
+    "chinese": "混乱不是深渊，混乱是阶梯。",
+    "source": "权力的游戏 / Game of Thrones"
+  },
+  {
+    "english": "The night is dark and full of terrors.",
+    "chinese": "长夜漫漫，处处险恶。",
+    "source": "权力的游戏 / Game of Thrones"
+  },
+  {
+    "english": "I am the one who knocks.",
+    "chinese": "我就是那个敲门的人。",
+    "source": "绝命毒师 / Breaking Bad"
+  },
+  {
+    "english": "Say my name.",
+    "chinese": "说我的名字。",
+    "source": "绝命毒师 / Breaking Bad"
+  },
+  {
+    "english": "Tread lightly.",
+    "chinese": "小心行事。",
+    "source": "绝命毒师 / Breaking Bad"
+  },
+  {
+    "english": "I did it for me. I liked it. I was good at it. And I was really... I was alive.",
+    "chinese": "我是为自己做的。我喜欢那样，我擅长那样。而且我真的……我感到活着。",
+    "source": "绝命毒师 / Breaking Bad"
+  },
+  {
+    "english": "Bazinga!",
+    "chinese": "逗你玩！",
+    "source": "生活大爆炸 / The Big Bang Theory"
+  },
+  {
+    "english": "We were on a break!",
+    "chinese": "我们在分手期间！",
+    "source": "老友记 / Friends"
+  },
+  {
+    "english": "How you doin'?",
+    "chinese": "你还好吗？",
+    "source": "老友记 / Friends"
+  },
+  {
+    "english": "Welcome to the real world. It sucks. You're gonna love it.",
+    "chinese": "欢迎来到真实世界，它糟透了，但你会喜欢的。",
+    "source": "老友记 / Friends"
+  },
+  {
+    "english": "Pivot! Pivot! PIVOT!",
+    "chinese": "转！转！转！",
+    "source": "老友记 / Friends"
+  },
+  {
+    "english": "I'll be there for you.",
+    "chinese": "我会陪在你身边。",
+    "source": "老友记 / Friends"
+  },
+  {
+    "english": "That's what she said.",
+    "chinese": "她也是这么说的。",
+    "source": "办公室 / The Office"
+  },
+  {
+    "english": "I'm not superstitious, but I am a little stitious.",
+    "chinese": "我不迷信，但我有点小迷信。",
+    "source": "办公室 / The Office"
+  },
+  {
+    "english": "Dwell on the beauty of life. Watch the stars, and see yourself running with them.",
+    "chinese": "沉思生命之美，仰望星辰，想象自己与它们一同奔跑。",
+    "source": "沉思录 / Meditations"
+  },
+  {
+    "english": "You have power over your mind — not outside events. Realize this, and you will find strength.",
+    "chinese": "你能掌控自己的思想，而非外在事件。认识到这一点，你就会找到力量。",
+    "source": "沉思录 / Meditations"
+  },
+  {
+    "english": "The happiness of your life depends upon the quality of your thoughts.",
+    "chinese": "你生活的幸福取决于你思想的质量。",
+    "source": "沉思录 / Meditations"
+  },
+  {
+    "english": "It is not that we have a short time to live, but that we waste a good deal of it.",
+    "chinese": "不是我们活的时间太短，而是我们浪费了太多时间。",
+    "source": "论生命之短暂 / On the Shortness of Life"
+  },
+  {
+    "english": "Luck is what happens when preparation meets opportunity.",
+    "chinese": "幸运就是准备与机会相遇的时刻。",
+    "source": "塞涅卡语录 / Seneca"
+  },
+  {
+    "english": "We suffer more often in imagination than in reality.",
+    "chinese": "我们在想象中受苦往往比在现实中更多。",
+    "source": "塞涅卡书信 / Letters from a Stoic"
+  },
+  {
+    "english": "The man who moves a mountain begins by carrying away small stones.",
+    "chinese": "移山之人始于搬走小石子。",
+    "source": "论语 / The Analects"
+  },
+  {
+    "english": "Our greatest glory is not in never falling, but in rising every time we fall.",
+    "chinese": "我们最大的荣耀不在于从不跌倒，而在于每次跌倒后都能重新站起来。",
+    "source": "论语 / The Analects"
+  },
+  {
+    "english": "It does not matter how slowly you go as long as you do not stop.",
+    "chinese": "不怕慢，就怕站。",
+    "source": "论语 / The Analects"
+  },
+  {
+    "english": "Knowing others is intelligence; knowing yourself is true wisdom.",
+    "chinese": "知人者智，自知者明。",
+    "source": "道德经 / Tao Te Ching"
+  },
+  {
+    "english": "A journey of a thousand miles begins with a single step.",
+    "chinese": "千里之行，始于足下。",
+    "source": "道德经 / Tao Te Ching"
+  },
+  {
+    "english": "The flame that burns twice as bright burns half as long.",
+    "chinese": "燃烧得越亮的火焰，持续时间越短。",
+    "source": "银翼杀手 / Blade Runner"
+  },
+  {
+    "english": "I've seen things you people wouldn't believe.",
+    "chinese": "我见过你们无法想象的事物。",
+    "source": "银翼杀手 / Blade Runner"
+  },
+  {
+    "english": "Every passing minute is another chance to turn it all around.",
+    "chinese": "每流逝的一分钟都是扭转一切的新机会。",
+    "source": "香草天空 / Vanilla Sky"
+  },
+  {
+    "english": "Just keep swimming.",
+    "chinese": "只管往前游。",
+    "source": "海底总动员 / Finding Nemo"
+  },
+  {
+    "english": "The flower that blooms in adversity is the rarest and most beautiful of all.",
+    "chinese": "在逆境中绽放的花朵是最稀有、最美丽的。",
+    "source": "花木兰 / Mulan"
+  },
+  {
+    "english": "Oh yes, the past can hurt. But you can either run from it, or learn from it.",
+    "chinese": "没错，往事会让人心痛。但你要么逃避，要么从中学习。",
+    "source": "狮子王 / The Lion King"
+  },
+  {
+    "english": "Hakuna Matata. It means no worries.",
+    "chinese": "哈库纳·玛塔塔，意思是无忧无虑。",
+    "source": "狮子王 / The Lion King"
+  },
+  {
+    "english": "The only thing we have to fear is fear itself.",
+    "chinese": "我们唯一需要恐惧的就是恐惧本身。",
+    "source": "罗斯福就职演说 / FDR Inaugural Address"
+  },
+  {
+    "english": "Injustice anywhere is a threat to justice everywhere.",
+    "chinese": "任何地方的不公正都是对所有地方公正的威胁。",
+    "source": "马丁·路德·金 / Martin Luther King Jr."
+  },
+  {
+    "english": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+    "chinese": "黑暗不能驱走黑暗，只有光明才能做到；仇恨不能驱走仇恨，只有爱才能做到。",
+    "source": "马丁·路德·金 / Martin Luther King Jr."
+  },
+  {
+    "english": "The ultimate measure of a man is not where he stands in moments of comfort, but where he stands at times of challenge.",
+    "chinese": "衡量一个人的最终标准，不是他在舒适时的表现，而是他在挑战时的立场。",
+    "source": "马丁·路德·金 / Martin Luther King Jr."
+  },
+  {
+    "english": "I have a dream that one day this nation will rise up.",
+    "chinese": "我有一个梦想，有一天这个国家会站起来。",
+    "source": "马丁·路德·金 / Martin Luther King Jr."
+  },
+  {
+    "english": "In the middle of difficulty lies opportunity.",
+    "chinese": "困难之中蕴含着机遇。",
+    "source": "爱因斯坦 / Albert Einstein"
+  },
+  {
+    "english": "Imagination is more important than knowledge.",
+    "chinese": "想象力比知识更重要。",
+    "source": "爱因斯坦 / Albert Einstein"
+  },
+  {
+    "english": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+    "chinese": "生活就像骑自行车，要保持平衡就得不断前进。",
+    "source": "爱因斯坦 / Albert Einstein"
+  },
+  {
+    "english": "Try not to become a man of success, but rather try to become a man of value.",
+    "chinese": "不要努力成为一个成功的人，而要努力成为一个有价值的人。",
+    "source": "爱因斯坦 / Albert Einstein"
+  },
+  {
+    "english": "Stay hungry, stay foolish.",
+    "chinese": "求知若饥，虚心若愚。",
+    "source": "史蒂夫·乔布斯 / Steve Jobs"
+  },
+  {
+    "english": "Your time is limited, don't waste it living someone else's life.",
+    "chinese": "你的时间有限，不要浪费在过别人的生活上。",
+    "source": "史蒂夫·乔布斯 / Steve Jobs"
+  },
+  {
+    "english": "The people who are crazy enough to think they can change the world are the ones who do.",
+    "chinese": "那些疯狂到以为自己能改变世界的人，才是真正改变世界的人。",
+    "source": "苹果广告 / Apple Think Different"
+  },
+  {
+    "english": "Innovation distinguishes between a leader and a follower.",
+    "chinese": "创新决定了你是领导者还是追随者。",
+    "source": "史蒂夫·乔布斯 / Steve Jobs"
+  },
+  {
+    "english": "I have not failed. I've just found 10,000 ways that won't work.",
+    "chinese": "我没有失败，我只是找到了一万种行不通的方法。",
+    "source": "爱迪生 / Thomas Edison"
+  },
+  {
+    "english": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    "chinese": "天才是百分之一的灵感加百分之九十九的汗水。",
+    "source": "爱迪生 / Thomas Edison"
+  },
+  {
+    "english": "Whether you think you can or you think you can't, you're right.",
+    "chinese": "无论你认为你能还是不能，你都是对的。",
+    "source": "亨利·福特 / Henry Ford"
+  },
+  {
+    "english": "The best time to plant a tree was 20 years ago. The second best time is now.",
+    "chinese": "种一棵树最好的时间是二十年前，其次是现在。",
+    "source": "中国谚语 / Chinese Proverb"
+  },
+  {
+    "english": "A smooth sea never made a skilled sailor.",
+    "chinese": "风平浪静练不出好水手。",
+    "source": "英语谚语 / English Proverb"
+  },
+  {
+    "english": "What doesn't kill you makes you stronger.",
+    "chinese": "不能杀死你的，只会让你更强大。",
+    "source": "尼采 / Friedrich Nietzsche"
+  },
+  {
+    "english": "He who has a why to live can bear almost any how.",
+    "chinese": "知道为什么而活的人，便能承受任何一种生活。",
+    "source": "尼采 / Friedrich Nietzsche"
+  },
+  {
+    "english": "And those who were seen dancing were thought to be insane by those who could not hear the music.",
+    "chinese": "那些听不见音乐的人以为跳舞的人疯了。",
+    "source": "尼采 / Friedrich Nietzsche"
+  },
+  {
+    "english": "One must still have chaos in oneself to be able to give birth to a dancing star.",
+    "chinese": "一个人心中必须有混沌，才能诞生跳舞的星辰。",
+    "source": "尼采 / Friedrich Nietzsche"
+  },
+  {
+    "english": "Man is not worried by real problems so much as by his imagined anxieties about real problems.",
+    "chinese": "人不是被真实的问题所困扰，而是被对真实问题的想象焦虑所困扰。",
+    "source": "爱比克泰德 / Epictetus"
+  },
+  {
+    "english": "First say to yourself what you would be; and then do what you have to do.",
+    "chinese": "先告诉自己你想成为什么样的人，然后做你该做的事。",
+    "source": "爱比克泰德 / Epictetus"
+  },
+  {
+    "english": "It's not what happens to you, but how you react to it that matters.",
+    "chinese": "重要的不是发生了什么，而是你如何应对。",
+    "source": "爱比克泰德 / Epictetus"
+  },
+  {
+    "english": "No man's land has yet to be explored. The frontiers are infinite.",
+    "chinese": "无人之地尚待探索，边界是无穷无尽的。",
+    "source": "死亡诗社 / Dead Poets Society"
+  },
+  {
+    "english": "Carpe diem. Seize the day, boys. Make your lives extraordinary.",
+    "chinese": "及时行乐，孩子们，抓住每一天，让你们的生命变得非凡。",
+    "source": "死亡诗社 / Dead Poets Society"
+  },
+  {
+    "english": "Medicine, law, business, engineering — these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love — these are what we stay alive for.",
+    "chinese": "医学、法律、商业、工程——这些都是崇高的追求，是维持生存所必需的。但诗歌、美、浪漫、爱——这些才是我们活着的意义。",
+    "source": "死亡诗社 / Dead Poets Society"
+  },
+  {
+    "english": "I took the one less traveled by, and that has made all the difference.",
+    "chinese": "我选择了人迹更少的那条路，这使得一切都不同了。",
+    "source": "未选择的路 / The Road Not Taken"
+  },
+  {
+    "english": "Two roads diverged in a wood, and I — I took the one less traveled by.",
+    "chinese": "林中两路分，而我——我选择了人迹更少的那一条。",
+    "source": "未选择的路 / The Road Not Taken"
+  },
+  {
+    "english": "Do not go gentle into that good night. Rage, rage against the dying of the light.",
+    "chinese": "不要温和地走进那个良夜，怒斥，怒斥光明的消逝。",
+    "source": "不要温和地走进那个良夜 / Do Not Go Gentle"
+  },
+  {
+    "english": "Hope is a good thing, maybe the best of things, and no good thing ever dies.",
+    "chinese": "希望是美好的，也许是人间至善，而美好的事物永不消逝。",
+    "source": "肖申克的救赎 / The Shawshank Redemption"
+  },
+  {
+    "english": "Get busy living, or get busy dying.",
+    "chinese": "要么忙着活，要么忙着死。",
+    "source": "肖申克的救赎 / The Shawshank Redemption"
+  },
+  {
+    "english": "Fear can hold you prisoner. Hope can set you free.",
+    "chinese": "恐惧让你沦为囚犯，希望让你重获自由。",
+    "source": "肖申克的救赎 / The Shawshank Redemption"
+  },
+  {
+    "english": "Some birds aren't meant to be caged. Their feathers are just too bright.",
+    "chinese": "有些鸟是关不住的，它们的羽毛太闪亮了。",
+    "source": "肖申克的救赎 / The Shawshank Redemption"
+  },
+  {
+    "english": "With great power comes great responsibility.",
+    "chinese": "能力越大，责任越大。",
+    "source": "蜘蛛侠 / Spider-Man"
+  },
+  {
+    "english": "Why do we fall? So we can learn to pick ourselves up.",
+    "chinese": "我们为什么会跌倒？这样我们才能学会自己站起来。",
+    "source": "蝙蝠侠：侠影之谜 / Batman Begins"
+  },
+  {
+    "english": "It's not who I am underneath, but what I do that defines me.",
+    "chinese": "决定我是谁的不是我的内心，而是我的行动。",
+    "source": "蝙蝠侠：侠影之谜 / Batman Begins"
+  },
+  {
+    "english": "The night is darkest just before the dawn.",
+    "chinese": "黎明前的夜晚最黑暗。",
+    "source": "蝙蝠侠：黑暗骑士 / The Dark Knight"
+  },
+  {
+    "english": "Why so serious?",
+    "chinese": "何必那么认真？",
+    "source": "蝙蝠侠：黑暗骑士 / The Dark Knight"
+  },
+  {
+    "english": "Some men just want to watch the world burn.",
+    "chinese": "有些人只想看世界燃烧。",
+    "source": "蝙蝠侠：黑暗骑士 / The Dark Knight"
+  },
+  {
+    "english": "You either die a hero, or you live long enough to see yourself become the villain.",
+    "chinese": "你要么作为英雄而死，要么活得足够久看到自己变成恶人。",
+    "source": "蝙蝠侠：黑暗骑士 / The Dark Knight"
+  },
+  {
+    "english": "Every man dies, not every man really lives.",
+    "chinese": "每个人都会死，但并非每个人都真正活过。",
+    "source": "勇敢的心 / Braveheart"
+  },
+  {
+    "english": "They may take our lives, but they'll never take our freedom!",
+    "chinese": "他们也许能夺走我们的生命，但永远夺不走我们的自由！",
+    "source": "勇敢的心 / Braveheart"
+  },
+  {
+    "english": "To see the world, things dangerous to come to, to see behind walls, draw closer, to find each other, and to feel. That is the purpose of life.",
+    "chinese": "开拓视野，冲破艰险，看见世界，身临其境，贴近彼此，感受生活，这就是生活的目的。",
+    "source": "白日梦想家 / The Secret Life of Walter Mitty"
+  },
+  {
+    "english": "Stop dreaming, start living.",
+    "chinese": "停止梦想，开始生活。",
+    "source": "白日梦想家 / The Secret Life of Walter Mitty"
+  },
+  {
+    "english": "Just when I thought I was out, they pull me back in.",
+    "chinese": "就在我以为我已经脱身的时候，他们又把我拉了回来。",
+    "source": "教父3 / The Godfather Part III"
+  },
+  {
+    "english": "Leave the gun. Take the cannoli.",
+    "chinese": "留下枪，带走奶油甜馅煎饼卷。",
+    "source": "教父 / The Godfather"
+  },
+  {
+    "english": "You can't handle the truth!",
+    "chinese": "你承受不了真相！",
+    "source": "好人寥寥 / A Few Good Men"
+  },
+  {
+    "english": "I feel the need — the need for speed!",
+    "chinese": "我感到一种需要——对速度的需要！",
+    "source": "壮志凌云 / Top Gun"
+  },
+  {
+    "english": "E.T. phone home.",
+    "chinese": "E.T.打电话回家。",
+    "source": "E.T.外星人 / E.T."
+  },
+  {
+    "english": "You shall not pass!",
+    "chinese": "你不可以通过！",
+    "source": "指环王 / The Lord of the Rings"
+  },
+  {
+    "english": "One does not simply walk into Mordor.",
+    "chinese": "你不能就这么走进魔多。",
+    "source": "指环王 / The Lord of the Rings"
+  },
+  {
+    "english": "My precious.",
+    "chinese": "我的宝贝。",
+    "source": "指环王 / The Lord of the Rings"
+  },
+  {
+    "english": "There is always hope.",
+    "chinese": "总有希望。",
+    "source": "指环王 / The Lord of the Rings"
+  },
+  {
+    "english": "A wizard is never late, nor is he early, he arrives precisely when he means to.",
+    "chinese": "巫师从不迟到，也不早到，他恰好在想要到达的时间到达。",
+    "source": "指环王 / The Lord of the Rings"
+  },
+  {
+    "english": "I see dead people.",
+    "chinese": "我看到死人。",
+    "source": "第六感 / The Sixth Sense"
+  },
+  {
+    "english": "The first rule of Fight Club is: you do not talk about Fight Club.",
+    "chinese": "搏击俱乐部的第一条规则是：不许谈论搏击俱乐部。",
+    "source": "搏击俱乐部 / Fight Club"
+  },
+  {
+    "english": "It's only after we've lost everything that we're free to do anything.",
+    "chinese": "只有当我们失去一切之后，我们才能自由地做任何事。",
+    "source": "搏击俱乐部 / Fight Club"
+  },
+  {
+    "english": "This is your life, and it's ending one minute at a time.",
+    "chinese": "这是你的生命，它在一分钟一分钟地消逝。",
+    "source": "搏击俱乐部 / Fight Club"
+  },
+  {
+    "english": "I see you.",
+    "chinese": "我看见你。",
+    "source": "阿凡达 / Avatar"
+  },
+  {
+    "english": "Come with me if you want to live.",
+    "chinese": "想活命就跟我走。",
+    "source": "终结者 / The Terminator"
+  },
+  {
+    "english": "To infinity and beyond!",
+    "chinese": "飞向宇宙，浩瀚无垠！",
+    "source": "玩具总动员 / Toy Story"
+  },
+  {
+    "english": "There's a snake in my boot!",
+    "chinese": "我靴子里有条蛇！",
+    "source": "玩具总动员 / Toy Story"
+  },
+  {
+    "english": "Adventure is out there!",
+    "chinese": "冒险就在前方！",
+    "source": "飞屋环游记 / Up"
+  },
+  {
+    "english": "Your identity is your most valuable possession. Protect it.",
+    "chinese": "你的身份是你最宝贵的财产，保护好它。",
+    "source": "超人总动员 / The Incredibles"
+  },
+  {
+    "english": "Anyone can cook, but only the fearless can be great.",
+    "chinese": "任何人都可以烹饪，但只有无畏者才能成为伟大的厨师。",
+    "source": "料理鼠王 / Ratatouille"
+  },
+  {
+    "english": "Not everyone can become a great artist, but a great artist can come from anywhere.",
+    "chinese": "不是每个人都能成为伟大的艺术家，但伟大的艺术家可能来自任何地方。",
+    "source": "料理鼠王 / Ratatouille"
+  },
+  {
+    "english": "The very things that hold you down are going to lift you up.",
+    "chinese": "那些拖累你的东西，终将让你飞翔。",
+    "source": "小飞象 / Dumbo"
+  },
+  {
+    "english": "The past can hurt. But the way I see it, you can either run from it or learn from it.",
+    "chinese": "往事会带来伤痛，但在我看来，你可以逃避，也可以从中学习。",
+    "source": "狮子王 / The Lion King"
+  },
+  {
+    "english": "Remember who you are.",
+    "chinese": "记住你是谁。",
+    "source": "狮子王 / The Lion King"
+  },
+  {
+    "english": "Change is the law of life. And those who look only to the past or present are certain to miss the future.",
+    "chinese": "变化是生活的法则，只盯着过去或现在的人注定会错过未来。",
+    "source": "肯尼迪 / John F. Kennedy"
+  },
+  {
+    "english": "Ask not what your country can do for you — ask what you can do for your country.",
+    "chinese": "不要问国家能为你做什么，而要问你能为国家做什么。",
+    "source": "肯尼迪就职演说 / JFK Inaugural Address"
+  },
+  {
+    "english": "We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard.",
+    "chinese": "我们选择在这十年内登月并做其他事，不是因为它们容易，而是因为它们困难。",
+    "source": "肯尼迪登月演说 / JFK Moon Speech"
+  },
+  {
+    "english": "Courage is not the absence of fear, but the triumph over it.",
+    "chinese": "勇气不是没有恐惧，而是战胜恐惧。",
+    "source": "曼德拉 / Nelson Mandela"
+  },
+  {
+    "english": "It always seems impossible until it's done.",
+    "chinese": "事情在完成之前，看起来总是不可能的。",
+    "source": "曼德拉 / Nelson Mandela"
+  },
+  {
+    "english": "Education is the most powerful weapon which you can use to change the world.",
+    "chinese": "教育是你可以用来改变世界的最强大的武器。",
+    "source": "曼德拉 / Nelson Mandela"
+  },
+  {
+    "english": "I learned that courage was not the absence of fear, but the triumph over it.",
+    "chinese": "我学到勇气不是没有恐惧，而是对恐惧的胜利。",
+    "source": "漫漫自由路 / Long Walk to Freedom"
+  },
+  {
+    "english": "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.",
+    "chinese": "二十年后，让你更失望的将是你没做过的事，而不是你做过的事。",
+    "source": "马克·吐温 / Mark Twain"
+  },
+  {
+    "english": "The secret of getting ahead is getting started.",
+    "chinese": "领先的秘诀就是开始行动。",
+    "source": "马克·吐温 / Mark Twain"
+  },
+  {
+    "english": "Courage is resistance to fear, mastery of fear — not absence of fear.",
+    "chinese": "勇气是抗拒恐惧、掌控恐惧，而非没有恐惧。",
+    "source": "马克·吐温 / Mark Twain"
+  },
+  {
+    "english": "Whenever you find yourself on the side of the majority, it is time to pause and reflect.",
+    "chinese": "当你发现自己站在多数人一边时，是时候停下来反思了。",
+    "source": "马克·吐温 / Mark Twain"
+  },
+  {
+    "english": "It is better to be hated for what you are than to be loved for what you are not.",
+    "chinese": "做真实的自己被人恨，好过做虚假的自己被人爱。",
+    "source": "马克·吐温 / Mark Twain"
+  },
+  {
+    "english": "The only impossible journey is the one you never begin.",
+    "chinese": "唯一不可能的旅程，是你从未出发的那一个。",
+    "source": "托尼·罗宾斯 / Tony Robbins"
+  },
+  {
+    "english": "The mind is everything. What you think you become.",
+    "chinese": "心即一切，你想什么，你就会成为什么。",
+    "source": "佛陀 / Buddha"
+  },
+  {
+    "english": "In the middle of every difficulty lies opportunity.",
+    "chinese": "每一个困难的中间都蕴含着机会。",
+    "source": "爱因斯坦 / Albert Einstein"
+  },
+  {
+    "english": "Strive not to be a success, but rather to be of value.",
+    "chinese": "不要追求成功，而要追求有价值。",
+    "source": "爱因斯坦 / Albert Einstein"
+  },
+  {
+    "english": "Logic will get you from A to B. Imagination will take you everywhere.",
+    "chinese": "逻辑能带你从A到B，想象力能带你去任何地方。",
+    "source": "爱因斯坦 / Albert Einstein"
+  },
+  {
+    "english": "Anyone who has never made a mistake has never tried anything new.",
+    "chinese": "从未犯错的人，也从未尝试过新事物。",
+    "source": "爱因斯坦 / Albert Einstein"
+  },
+  {
+    "english": "The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.",
+    "chinese": "我们所创造的世界是我们思维的过程，不改变思维就无法改变世界。",
+    "source": "爱因斯坦 / Albert Einstein"
+  },
+  {
+    "english": "If you want to lift yourself up, lift up someone else.",
+    "chinese": "如果你想提升自己，就先去提升别人。",
+    "source": "布克·T·华盛顿 / Booker T. Washington"
+  },
+  {
+    "english": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "chinese": "成功不是终点，失败也不是末日，重要的是继续前行的勇气。",
+    "source": "丘吉尔 / Winston Churchill"
+  },
+  {
+    "english": "We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets.",
+    "chinese": "我们将在海滩上战斗，我们将在登陆场上战斗，我们将在田野和街头战斗。",
+    "source": "丘吉尔 / Winston Churchill"
+  },
+  {
+    "english": "If you're going through hell, keep going.",
+    "chinese": "如果你正在经历地狱，那就继续走下去。",
+    "source": "丘吉尔 / Winston Churchill"
+  },
+  {
+    "english": "Attitude is a little thing that makes a big difference.",
+    "chinese": "态度是一件小事，却能产生巨大的差异。",
+    "source": "丘吉尔 / Winston Churchill"
+  },
+  {
+    "english": "Never, never, never give up.",
+    "chinese": "永远，永远，永远不要放弃。",
+    "source": "丘吉尔 / Winston Churchill"
+  },
+  {
+    "english": "Difficulties mastered are opportunities won.",
+    "chinese": "克服的困难就是赢得的机会。",
+    "source": "丘吉尔 / Winston Churchill"
+  },
+  {
+    "english": "You must be the change you wish to see in the world.",
+    "chinese": "你必须成为你希望在世界上看到的改变。",
+    "source": "甘地 / Mahatma Gandhi"
+  },
+  {
+    "english": "Be the change that you wish to see in the world.",
+    "chinese": "成为你希望在世界上看到的改变。",
+    "source": "甘地 / Mahatma Gandhi"
+  },
+  {
+    "english": "The weak can never forgive. Forgiveness is the attribute of the strong.",
+    "chinese": "弱者永远无法宽恕，宽恕是强者的特质。",
+    "source": "甘地 / Mahatma Gandhi"
+  },
+  {
+    "english": "An eye for an eye only ends up making the whole world blind.",
+    "chinese": "以眼还眼只会让整个世界盲目。",
+    "source": "甘地 / Mahatma Gandhi"
+  },
+  {
+    "english": "First they ignore you, then they ridicule you, then they fight you, and then you win.",
+    "chinese": "起初他们忽视你，然后嘲笑你，然后与你战斗，最后你赢了。",
+    "source": "甘地 / Mahatma Gandhi"
+  },
+  {
+    "english": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+    "chinese": "像明天就会死去那样活着，像永远不会死去那样学习。",
+    "source": "甘地 / Mahatma Gandhi"
+  },
+  {
+    "english": "The only true wisdom is in knowing you know nothing.",
+    "chinese": "唯一真正的智慧是知道你一无所知。",
+    "source": "苏格拉底 / Socrates"
+  },
+  {
+    "english": "The unexamined life is not worth living.",
+    "chinese": "未经审视的人生不值得过。",
+    "source": "苏格拉底 / Socrates"
+  },
+  {
+    "english": "I know that I know nothing.",
+    "chinese": "我知道我一无所知。",
+    "source": "苏格拉底 / Socrates"
+  },
+  {
+    "english": "There is only one good, knowledge, and one evil, ignorance.",
+    "chinese": "世上只有一种善，即知识；只有一种恶，即无知。",
+    "source": "苏格拉底 / Socrates"
+  },
+  {
+    "english": "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.",
+    "chinese": "我们可以轻易原谅怕黑的孩子，人生真正的悲剧是大人害怕光明。",
+    "source": "柏拉图 / Plato"
+  },
+  {
+    "english": "Be kind, for everyone you meet is fighting a hard battle.",
+    "chinese": "善待他人，因为你遇到的每个人都在经历一场艰难的战斗。",
+    "source": "柏拉图 / Plato"
+  },
+  {
+    "english": "The greatest wealth is to live content with little.",
+    "chinese": "最大的财富是知足常乐。",
+    "source": "柏拉图 / Plato"
+  },
+  {
+    "english": "I am the master of my fate: I am the captain of my soul.",
+    "chinese": "我是我命运的主宰，我是我灵魂的统帅。",
+    "source": "不可征服 / Invictus"
+  },
+  {
+    "english": "It matters not how strait the gate, how charged with punishments the scroll, I am the master of my fate.",
+    "chinese": "无论门有多窄，无论判决书上有多少惩罚，我是我命运的主宰。",
+    "source": "不可征服 / Invictus"
+  },
+  {
+    "english": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+    "chinese": "有两样东西是无限的：宇宙和人的愚蠢；我对宇宙还不太确定。",
+    "source": "爱因斯坦 / Albert Einstein"
+  },
+  {
+    "english": "If you can dream it, you can do it.",
+    "chinese": "如果你能梦想它，你就能实现它。",
+    "source": "华特·迪士尼 / Walt Disney"
+  },
+  {
+    "english": "The way to get started is to quit talking and begin doing.",
+    "chinese": "开始的方法就是停止谈论，开始行动。",
+    "source": "华特·迪士尼 / Walt Disney"
+  },
+  {
+    "english": "All our dreams can come true, if we have the courage to pursue them.",
+    "chinese": "如果我们有勇气去追求，所有的梦想都能成真。",
+    "source": "华特·迪士尼 / Walt Disney"
+  },
+  {
+    "english": "It's kind of fun to do the impossible.",
+    "chinese": "做不可能的事还挺有趣的。",
+    "source": "华特·迪士尼 / Walt Disney"
+  },
+  {
+    "english": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "chinese": "实现明天理想的唯一障碍是今天的疑虑。",
+    "source": "罗斯福 / Franklin D. Roosevelt"
+  },
+  {
+    "english": "When you reach the end of your rope, tie a knot in it and hang on.",
+    "chinese": "当你到达绳子的尽头时，打个结，坚持住。",
+    "source": "罗斯福 / Franklin D. Roosevelt"
+  },
+  {
+    "english": "The future belongs to those who believe in the beauty of their dreams.",
+    "chinese": "未来属于那些相信梦想之美的人。",
+    "source": "罗斯福 / Eleanor Roosevelt"
+  },
+  {
+    "english": "No one can make you feel inferior without your consent.",
+    "chinese": "未经你的同意，没有人能让你感到自卑。",
+    "source": "罗斯福 / Eleanor Roosevelt"
+  },
+  {
+    "english": "Do what you feel in your heart to be right — for you'll be criticized anyway.",
+    "chinese": "做你心里认为正确的事——反正你都会被批评。",
+    "source": "罗斯福 / Eleanor Roosevelt"
+  },
+  {
+    "english": "Yesterday is history, tomorrow is a mystery, today is a gift. That's why we call it the present.",
+    "chinese": "昨天是历史，明天是谜团，今天是礼物。这就是为什么我们叫它'现在'。",
+    "source": "功夫熊猫 / Kung Fu Panda"
+  },
+  {
+    "english": "There are no accidents.",
+    "chinese": "世上没有意外。",
+    "source": "功夫熊猫 / Kung Fu Panda"
+  },
+  {
+    "english": "One often meets his destiny on the road he takes to avoid it.",
+    "chinese": "一个人往往在试图逃避命运的路上与命运相遇。",
+    "source": "功夫熊猫 / Kung Fu Panda"
+  },
+  {
+    "english": "Your story may not have such a happy beginning, but that doesn't make you who you are. It is the rest of your story, who you choose to be.",
+    "chinese": "你的故事也许没有幸福的开始，但那并不能决定你是谁。重要的是你故事的后面部分，你选择成为谁。",
+    "source": "功夫熊猫2 / Kung Fu Panda 2"
+  },
+  {
+    "english": "If you only do what you can do, you'll never be more than you are now.",
+    "chinese": "如果你只做你力所能及的事，你就永远无法超越现在的自己。",
+    "source": "功夫熊猫3 / Kung Fu Panda 3"
+  },
+  {
+    "english": "I don't know if we each have a destiny, or if we're all just floating around accidental-like on a breeze. But I, I think maybe it's both.",
+    "chinese": "我不知道我们是否各有天命，还是只是一阵风偶然吹动。但我想，也许两者都有。",
+    "source": "阿甘正传 / Forrest Gump"
+  },
+  {
+    "english": "Miracles happen every day.",
+    "chinese": "奇迹每天都在发生。",
+    "source": "阿甘正传 / Forrest Gump"
+  },
+  {
+    "english": "You have to do the best with what God gave you.",
+    "chinese": "你必须用上帝给你的做到最好。",
+    "source": "阿甘正传 / Forrest Gump"
+  },
+  {
+    "english": "The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men.",
+    "chinese": "义人的路被恶人的自私和不义所包围。",
+    "source": "低俗小说 / Pulp Fiction"
+  },
+  {
+    "english": "Every man for himself.",
+    "chinese": "人人为己。",
+    "source": "泰坦尼克号 / Titanic"
+  },
+  {
+    "english": "I'm the king of the world!",
+    "chinese": "我是世界之王！",
+    "source": "泰坦尼克号 / Titanic"
+  },
+  {
+    "english": "A ship in harbor is safe, but that is not what ships are built for.",
+    "chinese": "停泊在港湾的船最安全，但那不是船被建造的目的。",
+    "source": "谢德 / John A. Shedd"
+  },
+  {
+    "english": "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+    "chinese": "如果你把目标定得高得离谱然后失败了，你的失败也高于别人的成功。",
+    "source": "詹姆斯·卡梅隆 / James Cameron"
+  },
+  {
+    "english": "The only person you are destined to become is the person you decide to be.",
+    "chinese": "你注定成为的唯一的人，是你决定成为的那个人。",
+    "source": "爱默生 / Ralph Waldo Emerson"
+  },
+  {
+    "english": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "chinese": "我们身后的和前面的事物，与我们内心的相比都是微不足道的。",
+    "source": "爱默生 / Ralph Waldo Emerson"
+  },
+  {
+    "english": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+    "chinese": "在一个不断试图让你变成别人的世界里做自己，是最伟大的成就。",
+    "source": "爱默生 / Ralph Waldo Emerson"
+  },
+  {
+    "english": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+    "chinese": "不要走别人走过的路，去没有路的地方，留下自己的足迹。",
+    "source": "爱默生 / Ralph Waldo Emerson"
+  },
+  {
+    "english": "Nothing great was ever achieved without enthusiasm.",
+    "chinese": "没有热情，就没有伟大的成就。",
+    "source": "爱默生 / Ralph Waldo Emerson"
+  },
+  {
+    "english": "Hardship often prepares an ordinary person for an extraordinary destiny.",
+    "chinese": "苦难常常为一个平凡的人准备了非凡的命运。",
+    "source": "纳尼亚传奇 / The Chronicles of Narnia"
+  },
+  {
+    "english": "Courage, dear heart.",
+    "chinese": "勇敢些，亲爱的心。",
+    "source": "纳尼亚传奇 / The Chronicles of Narnia"
+  },
+  {
+    "english": "Once a king or queen of Narnia, always a king or queen of Narnia.",
+    "chinese": "一日为纳尼亚之王/后，终身为纳尼亚之王/后。",
+    "source": "纳尼亚传奇 / The Chronicles of Narnia"
+  },
+  {
+    "english": "I can no longer obey; I have elected to command.",
+    "chinese": "我不再服从，我选择指挥。",
+    "source": "基督山伯爵 / The Count of Monte Cristo"
+  },
+  {
+    "english": "All human wisdom is contained in these two words — Wait and Hope.",
+    "chinese": "人类的一切智慧都包含在这两个词中——等待与希望。",
+    "source": "基督山伯爵 / The Count of Monte Cristo"
+  },
+  {
+    "english": "Life is a storm. One minute you will bathe in the sunlight and the next you will be shattered on the rocks.",
+    "chinese": "生活就是一场风暴，前一分钟你沐浴在阳光下，下一分钟你就被岩石击碎。",
+    "source": "基督山伯爵 / The Count of Monte Cristo"
+  },
+  {
+    "english": "I am not afraid of storms, for I am learning how to sail my ship.",
+    "chinese": "我不害怕风暴，因为我正在学习如何驾驶我的船。",
+    "source": "小妇人 / Little Women"
+  },
+  {
+    "english": "Women, they have minds, and they have souls, as well as just hearts. And they've got ambition, and they've got talent, as well as just beauty.",
+    "chinese": "女人有思想，有灵魂，不仅仅是心脏。她们有抱负，有才华，不仅仅是美丽。",
+    "source": "小妇人 / Little Women"
+  },
+  {
+    "english": "I'd rather be a failure at something I love than a success at something I hate.",
+    "chinese": "我宁愿在我热爱的事情上失败，也不愿在我讨厌的事情上成功。",
+    "source": "乔治·伯恩斯 / George Burns"
+  },
+  {
+    "english": "The man who has confidence in himself gains the confidence of others.",
+    "chinese": "对自己有信心的人，也能获得他人的信心。",
+    "source": "哈西德谚语 / Hasidic Proverb"
+  },
+  {
+    "english": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+    "chinese": "通过实现目标你得到什么，不如通过实现目标你成为什么重要。",
+    "source": "齐格·齐格勒 / Zig Ziglar"
+  },
+  {
+    "english": "Believe you can and you're halfway there.",
+    "chinese": "相信你能做到，你就已经成功了一半。",
+    "source": "罗斯福 / Theodore Roosevelt"
+  },
+  {
+    "english": "It is not the critic who counts; not the man who points out how the strong man stumbles. The credit belongs to the man who is actually in the arena.",
+    "chinese": "重要的不是评论家，不是指出强者如何跌倒的人。功劳属于真正在竞技场上的人。",
+    "source": "罗斯福 / Theodore Roosevelt"
+  },
+  {
+    "english": "Do what you can, with what you have, where you are.",
+    "chinese": "在你所处的地方，用你所有的一切，做你能做的事。",
+    "source": "罗斯福 / Theodore Roosevelt"
+  },
+  {
+    "english": "Far and away the best prize that life has to offer is the chance to work hard at work worth doing.",
+    "chinese": "生活所能提供的最好的奖赏，就是有机会努力做值得做的事。",
+    "source": "罗斯福 / Theodore Roosevelt"
+  },
+  {
+    "english": "In a gentle way, you can shake the world.",
+    "chinese": "用温和的方式，你也可以震撼世界。",
+    "source": "甘地 / Mahatma Gandhi"
+  },
+  {
+    "english": "Strength does not come from physical capacity. It comes from an indomitable will.",
+    "chinese": "力量不是来自体能，而是来自不屈的意志。",
+    "source": "甘地 / Mahatma Gandhi"
+  },
+  {
+    "english": "Perfection is not attainable, but if we chase perfection we can catch excellence.",
+    "chinese": "完美不可企及，但如果我们追求完美，就能捕获卓越。",
+    "source": "隆巴迪 / Vince Lombardi"
+  },
+  {
+    "english": "The price of greatness is responsibility.",
+    "chinese": "伟大的代价是责任。",
+    "source": "丘吉尔 / Winston Churchill"
+  },
+  {
+    "english": "We make a living by what we get, but we make a life by what we give.",
+    "chinese": "我们靠所得来谋生，但靠给予来创造生活。",
+    "source": "丘吉尔 / Winston Churchill"
+  },
+  {
+    "english": "Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning.",
+    "chinese": "这不是结束，甚至不是结束的开始，但这也许是开始的结束。",
+    "source": "丘吉尔 / Winston Churchill"
+  },
+  {
+    "english": "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.",
+    "chinese": "悲观者在每个机会中看到困难，乐观者在每个困难中看到机会。",
+    "source": "丘吉尔 / Winston Churchill"
+  },
+  {
+    "english": "Everything you've ever wanted is on the other side of fear.",
+    "chinese": "你想要的一切，都在恐惧的另一边。",
+    "source": "乔治·阿代尔 / George Addair"
+  },
+  {
+    "english": "Fall seven times, stand up eight.",
+    "chinese": "跌倒七次，站起来八次。",
+    "source": "日本谚语 / Japanese Proverb"
+  },
+  {
+    "english": "The bamboo that bends is stronger than the oak that resists.",
+    "chinese": "弯而不折的竹子比硬抗的橡树更强大。",
+    "source": "日本谚语 / Japanese Proverb"
+  },
+  {
+    "english": "A diamond is a chunk of coal that did well under pressure.",
+    "chinese": "钻石不过是经受住压力的煤块。",
+    "source": "亨利·基辛格 / Henry Kissinger"
+  },
+  {
+    "english": "Tough times never last, but tough people do.",
+    "chinese": "艰难的时光终将过去，坚强的人却能坚持到底。",
+    "source": "罗伯特·舒勒 / Robert H. Schuller"
+  },
+  {
+    "english": "Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.",
+    "chinese": "最强大的灵魂从苦难中诞生，最伟大的品格都带着伤痕。",
+    "source": "纪伯伦 / Khalil Gibran"
+  },
+  {
+    "english": "Your living is determined not so much by what life brings to you as by the attitude you bring to life.",
+    "chinese": "决定你生活的，与其说是生活带给你的，不如说是你对待生活的态度。",
+    "source": "纪伯伦 / Khalil Gibran"
+  },
+  {
+    "english": "One day, in retrospect, the years of struggle will strike you as the most beautiful.",
+    "chinese": "有一天回头看，那些奋斗的岁月将是你最美好的回忆。",
+    "source": "弗洛伊德 / Sigmund Freud"
+  },
+  {
+    "english": "Before I can live with other folks I've got to live with myself.",
+    "chinese": "在和别人一起生活之前，我得先和自己好好相处。",
+    "source": "杀死一只知更鸟 / To Kill a Mockingbird"
+  },
+  {
+    "english": "The one thing that doesn't abide by majority rule is a person's conscience.",
+    "chinese": "唯一不受多数决原则约束的，是一个人的良心。",
+    "source": "杀死一只知更鸟 / To Kill a Mockingbird"
+  },
+  {
+    "english": "You never really understand a person until you consider things from his point of view.",
+    "chinese": "除非你从别人的角度看问题，否则你永远不会真正理解一个人。",
+    "source": "杀死一只知更鸟 / To Kill a Mockingbird"
+  },
+  {
+    "english": "Courage is not a man with a gun in his hand. It's knowing you're licked before you begin but you begin anyway and you see it through no matter what.",
+    "chinese": "勇气不是手中有枪的人，而是明知必败仍要开始，并无论如何坚持到底。",
+    "source": "杀死一只知更鸟 / To Kill a Mockingbird"
+  },
+  {
+    "english": "Most people are, Scout, when you finally see them.",
+    "chinese": "大多数人都是好人，斯库特，当你最终看清他们的时候。",
+    "source": "杀死一只知更鸟 / To Kill a Mockingbird"
+  },
+  {
+    "english": "All we have to decide is what to do with the time that is given us.",
+    "chinese": "我们要决定的就是如何利用赐予我们的时间。",
+    "source": "指环王 / The Lord of the Rings"
+  },
+  {
+    "english": "End? No, the journey doesn't end here.",
+    "chinese": "结束？不，旅程不会在这里结束。",
+    "source": "指环王 / The Lord of the Rings"
+  },
+  {
+    "english": "Deeds will not be less valiant because they are unpraised.",
+    "chinese": "未被赞颂的事迹，并不因此就少了英勇。",
+    "source": "指环王 / The Lord of the Rings"
+  },
+  {
+    "english": "There is nothing like looking, if you want to find something.",
+    "chinese": "如果你想找到什么东西，没有什么比亲自去找更好的了。",
+    "source": "霍比特人 / The Hobbit"
+  },
+  {
+    "english": "I'm going to make tomorrow about today.",
+    "chinese": "我要让明天围绕今天而活。",
+    "source": "当幸福来敲门 / The Pursuit of Happyness"
+  },
+  {
+    "english": "Don't ever let somebody tell you you can't do something. Not even me.",
+    "chinese": "永远不要让别人告诉你你做不到，即使是我也不行。",
+    "source": "当幸福来敲门 / The Pursuit of Happyness"
+  },
+  {
+    "english": "You got a dream, you gotta protect it. People can't do something themselves, they wanna tell you you can't do it.",
+    "chinese": "如果你有梦想，就要去守护它。那些自己做不到的人，会告诉你你也做不到。",
+    "source": "当幸福来敲门 / The Pursuit of Happyness"
+  },
+  {
+    "english": "The part that matters most is the part that's not yet written.",
+    "chinese": "最重要的部分是还没写的那部分。",
+    "source": "当幸福来敲门 / The Pursuit of Happyness"
+  },
+  {
+    "english": "This is the day your life really begins.",
+    "chinese": "这是你的人生真正开始的一天。",
+    "source": "当幸福来敲门 / The Pursuit of Happyness"
+  }
+]

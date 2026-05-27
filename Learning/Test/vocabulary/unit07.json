@@ -1,0 +1,2006 @@
+[
+  {
+    "word": "subject",
+    "phonetic": "[ˈsʌbdʒɪkt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "学科；对象；主题；主语"
+      },
+      {
+        "pos": "形",
+        "definition": "易遭受…的；受…支配的"
+      },
+      {
+        "pos": "动",
+        "definition": "使臣服"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "susceptible",
+    "phonetic": "[səˈseptəb(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "易受影响的；易动感情的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "success",
+    "phonetic": "[səkˈses]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "成功；胜利"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "succeed",
+    "phonetic": "[səkˈsiːd]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "成功；继承"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "successful",
+    "phonetic": "[səkˈsesf(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "成功的；有成就的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "succession",
+    "phonetic": "[səkˈseʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "一连串；连续；更迭；继承"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "successive",
+    "phonetic": "[səkˈsesɪv]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "继承的；连续的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "fail",
+    "phonetic": "[feɪl]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "失败；不及格；无法做到；使失望；衰 退；倒闭"
+      },
+      {
+        "pos": "名",
+        "definition": "失败；不及格"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "failure",
+    "phonetic": "[ˈfeɪljə(r)]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "失败"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "union",
+    "phonetic": "[ˈjuːniən]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "联盟；联合；工会"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "unionist",
+    "phonetic": "[ˈjuːniənɪst]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "工会会员；工会主义者"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "unification",
+    "phonetic": "[ˌjuːnɪfɪˈkeɪʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "统一；合一"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "alliance",
+    "phonetic": "[əˈlaɪəns]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "联盟；联姻；结盟"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "align",
+    "phonetic": "[əˈlaɪn]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "与…结盟；使成一排；使一致"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "associate",
+    "phonetic": "[əˈsəʊʃieɪt]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "把…联系在一起；与…交往"
+      },
+      {
+        "pos": "名",
+        "definition": "同事；伙伴"
+      },
+      {
+        "pos": "形",
+        "definition": "副的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "association",
+    "phonetic": "[əˌsəʊsiˈeɪʃən]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "协会；联系；联想"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "coalition",
+    "phonetic": "[ˌkəʊəˈlɪʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "结合；联合；联盟"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "carry",
+    "phonetic": "[ˈkæri]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "拿；携带；运送"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "deliver",
+    "phonetic": "[dɪˈlɪvə(r)]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "交付；递送；兑现；为…接生； 发表"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "delivery",
+    "phonetic": "[dɪˈlɪvəri]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "传送；交付；分娩"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "vehicle",
+    "phonetic": "[ˈviːək(ə)l]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "车辆；交通工具；媒介物；传达 手段"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "commute",
+    "phonetic": "[kəˈmjuːt]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "通勤；减刑；改换"
+      },
+      {
+        "pos": "名",
+        "definition": "通勤"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "commuter",
+    "phonetic": "[kəˈmjuːtə(r)]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "通勤者；经常往返者"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "encourage",
+    "phonetic": "[ɪnˈkʌrɪdʒ]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "鼓励；鼓舞；促进；鼓动"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "encouragement",
+    "phonetic": "[ɪnˈkʌrɪdʒmənt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "鼓励；鼓舞"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "courage",
+    "phonetic": "[ˈkʌrɪdʒ]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "勇气；勇敢"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "courageous",
+    "phonetic": "[kəˈreɪdʒəs]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "勇敢的；有胆量的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "discourage",
+    "phonetic": "[dɪsˈkʌrɪdʒ]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "劝阻；阻止；使气馁"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "inspire",
+    "phonetic": "[ɪnˈspaɪə(r)]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "鼓舞；激励；启迪；激起；促成"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "global",
+    "phonetic": "[ˈɡləʊb(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "全球的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "globalise",
+    "phonetic": "[ˈɡləʊbəlaɪz]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "使全球化"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "globalize",
+    "phonetic": "[ˈɡləʊbəlaɪz]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "（使）全球化"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "globalization",
+    "phonetic": "[ˌɡləʊbəlaɪˈzeɪʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "全球化"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "universe",
+    "phonetic": "[ˈjuːnɪvɜːs]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "宇宙"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "universal",
+    "phonetic": "[ˌjuːnɪˈvɜːs(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "普遍的；全体的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "graduate",
+    "phonetic": "[ˈɡrædʒuət]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "大学毕业生；学士学位获得者"
+      },
+      {
+        "pos": "动",
+        "definition": "毕业"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "graduation",
+    "phonetic": "[ˌɡrædʒuˈeɪʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "毕业；毕业典礼"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "undergraduate",
+    "phonetic": "[ˌʌndəˈɡrædʒuət]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "本科生"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "postgraduate",
+    "phonetic": "[ˌpəʊstˈɡrædʒuət]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "研究生"
+      },
+      {
+        "pos": "形",
+        "definition": "大学毕业后的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "gradual",
+    "phonetic": "[ˈɡrædʒuəl]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "逐渐的；逐步的；渐进的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "gradually",
+    "phonetic": "[ˈɡrædʒuəli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "渐渐地；逐步地"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "infer",
+    "phonetic": "[ɪnˈfɜː(r)]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "推断；推知"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "inference",
+    "phonetic": "[ˈɪnfərəns]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "推论；推断"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "conclude",
+    "phonetic": "[kənˈkluːd]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "推断出；得出结论；结束"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "conclusion",
+    "phonetic": "[kənˈkluːʒ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "结论；结尾"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "conclusive",
+    "phonetic": "[kənˈkluːsɪv]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "决定性的；无可置疑的；结论性 的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "inconclusive",
+    "phonetic": "[ˌɪnkənˈkluːsɪv]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "无结论的；非决定性的；不确定 的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "standard",
+    "phonetic": "[ˈstændəd]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "标准"
+      },
+      {
+        "pos": "形",
+        "definition": "标准的；规范的；权威的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "standardised",
+    "phonetic": "[ˈstændədaɪzd]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "标准化的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "standardized",
+    "phonetic": "[ˈstændədaɪzd]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "标准的；定型的"
+      },
+      {
+        "pos": "动",
+        "definition": "使合乎标准；使合规格；“standardize” 的过去式和过去分词"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "criterion",
+    "phonetic": "[kraɪˈtɪəriən]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "标准；准则；规范"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "norm",
+    "phonetic": "[nɔːm]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "准则；标准"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "pattern",
+    "phonetic": "[ˈpæt(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "模式；图案；样式"
+      },
+      {
+        "pos": "动",
+        "definition": "形成图案；仿造"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "physical",
+    "phonetic": "[ˈfɪzɪk(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "身体的；外观的；物质的；物理的"
+      },
+      {
+        "pos": "名",
+        "definition": "体格检查"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "physically",
+    "phonetic": "[ˈfɪzɪkli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "身体上；物质上；体格上"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "physics",
+    "phonetic": "[ˈfɪzɪks]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "物理学"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "metaphysical",
+    "phonetic": "[ˌmetəˈfɪzɪk(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "形而上学的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "psychology",
+    "phonetic": "[saɪˈkɒlədʒi]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "心理学；心理"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "psychological",
+    "phonetic": "[ˌsaɪkəˈlɒdʒɪk(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "心理的；心理学的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "psychologist",
+    "phonetic": "[saɪˈkɒlədʒɪst]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "心理学家；心理学研究者"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "psychiatrist",
+    "phonetic": "[saɪˈkaɪətrɪst]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "精神病学家；精神科医生"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "mental",
+    "phonetic": "[ˈment(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "精神的；心理的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "agree",
+    "phonetic": "[əˈɡriː]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "同意；赞成"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "agreement",
+    "phonetic": "[əˈɡriːmənt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "一致；同意；协议"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "consent",
+    "phonetic": "[kənˈsent]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "同意；允许"
+      },
+      {
+        "pos": "动",
+        "definition": "同意；允许"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "consensus",
+    "phonetic": "[kənˈsensəs]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "一致；共识"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "approve",
+    "phonetic": "[əˈpruːv]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "批准；认可；通过；赞成(连of)"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "approval",
+    "phonetic": "[əˈpruːv(ə)l]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "赞成；批准"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "disapproval",
+    "phonetic": "[ˌdɪsəˈpruːv(ə)l]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "反对；不赞成"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "continue",
+    "phonetic": "[kənˈtɪnjuː]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "继续；连续"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "discontinue",
+    "phonetic": "[ˌdɪskənˈtɪnjuː]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "停止；终止；中断"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "continuous",
+    "phonetic": "[kənˈtɪnjuəs]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "继续的；连续的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "constant",
+    "phonetic": "[ˈkɒnstənt]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "恒定的；不变的；持续的"
+      },
+      {
+        "pos": "名",
+        "definition": "常数；常量"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "constantly",
+    "phonetic": "[ˈkɒnstəntli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "不断地；持续地"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "permanent",
+    "phonetic": "[ˈpɜːmənənt]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "永久的；持久的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "perpetuate",
+    "phonetic": "[pəˈpetʃueɪt]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "使（尤指不好的情形、体系、信 仰）持续、长存"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "advance",
+    "phonetic": "[ədˈvɑːns]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "发展；进步；提前"
+      },
+      {
+        "pos": "动",
+        "definition": "前进；发展；提前"
+      },
+      {
+        "pos": "形",
+        "definition": "预先的；在前的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "advanced",
+    "phonetic": "[ədˈvɑːnst]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "先进的；高级的"
+      },
+      {
+        "pos": "动",
+        "definition": "前进；提前；“advance” 的过去式和过 去分词"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "progress",
+    "phonetic": "[ˈprəʊɡres]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "进展；进步；缓慢前进；稳步前进"
+      },
+      {
+        "pos": "动",
+        "definition": "进展；进步；（时间）逐渐过去；前进"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "progressive",
+    "phonetic": "[prəˈɡresɪv]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "先进的；前进的"
+      },
+      {
+        "pos": "名",
+        "definition": "改革论者；进步论者"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "recession",
+    "phonetic": "[rɪˈseʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "后退；（经济）不景气"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "bleak",
+    "phonetic": "[bliːk]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "荒凉的；阴冷的；凄凉的；无望 的；沮丧的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "lack",
+    "phonetic": "[læk]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "缺乏；短缺"
+      },
+      {
+        "pos": "名",
+        "definition": "缺乏；短缺"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "shortage",
+    "phonetic": "[ˈʃɔːtɪdʒ]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "不足；短缺"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "deficiency",
+    "phonetic": "[dɪˈfɪʃ(ə)nsi]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "缺乏；不足"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "dearth",
+    "phonetic": "[dɜːθ]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "缺乏；不足"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "local",
+    "phonetic": "[ˈləʊk(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "局部的；本地的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "locate",
+    "phonetic": "[ləʊˈkeɪt]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "位于；查找…的地点；确定…的 位置；使坐落于"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "site",
+    "phonetic": "[saɪt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "位置；场所"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "spot",
+    "phonetic": "[spɒt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "斑点；圆点；地点；场所"
+      },
+      {
+        "pos": "动",
+        "definition": "识别；发现；弄脏"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "professor",
+    "phonetic": "[prəˈfesə(r)]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "教授；导师"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "profession",
+    "phonetic": "[prəˈfeʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "职业；专业"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "professional",
+    "phonetic": "[prəˈfeʃən(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "专业的；职业的"
+      },
+      {
+        "pos": "名",
+        "definition": "专业人士"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "professionalise",
+    "phonetic": "[prəˈfeʃənəlaɪz]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "使…专业化"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "professionalize",
+    "phonetic": "[prəˈfeʃənəlaɪz]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "使专业化；使职业化"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "professionalism",
+    "phonetic": "[prəˈfeʃənəlɪzəm]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "职业道德；职业特性；专业技 巧；职业化"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "amateur",
+    "phonetic": "[ˈæmətʃə(r)]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "业余爱好者"
+      },
+      {
+        "pos": "形",
+        "definition": "业余的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "expert",
+    "phonetic": "[ˈekspɜːt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "专家；行家"
+      },
+      {
+        "pos": "形",
+        "definition": "老练的；内行的；专门的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "specialist",
+    "phonetic": "[ˈspeʃəlɪst]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "专家；专科医生"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "quality",
+    "phonetic": "[ˈkwɒləti]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "质量；素质；品质"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "qualify",
+    "phonetic": "[ˈkwɒlɪfaɪ]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "使合格；使具有资格"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "qualified",
+    "phonetic": "[ˈkwɒlɪfaɪd]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "有资格的；合格的；有保留的；有限制的"
+      },
+      {
+        "pos": "动",
+        "definition": "取得资格；“qualify” 的过去式和过去分 词"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "qualification",
+    "phonetic": "[ˌkwɒlɪfɪˈkeɪʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "资格；条件"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "eligible",
+    "phonetic": "[ˈelɪdʒəb(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "有资格的；合格的；合意的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "apply",
+    "phonetic": "[əˈplaɪ]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "申请；应用；涂，敷"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "applicable",
+    "phonetic": "[əˈplɪkəb(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "适用的；适合的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "applicant",
+    "phonetic": "[ˈæplɪkənt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "申请人"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "application",
+    "phonetic": "[ˌæplɪˈkeɪʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "应用；申请"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "exert",
+    "phonetic": "[ɪɡˈzɜːt]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "运用；施加"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "utilise",
+    "phonetic": "[ˈjuːtəlaɪz]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "利用"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "utilize",
+    "phonetic": "[ˈjuːtəlaɪz]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "利用"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "balance",
+    "phonetic": "[ˈbæləns]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "天平、秤；平衡；收支差额；余额"
+      },
+      {
+        "pos": "动",
+        "definition": "（使）平衡；（使）相抵"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "imbalance",
+    "phonetic": "[ɪmˈbæləns]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "失衡；不平衡"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "counterbalance",
+    "phonetic": "[ˌkaʊntəˈbæləns]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "抵消；使平衡"
+      },
+      {
+        "pos": "名",
+        "definition": "衡重体；平衡力"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "seek",
+    "phonetic": "[siːk]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "寻求；寻找"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "jobseeker",
+    "phonetic": "[ˈdʒɒbsiːkə(r)]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "求职者"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "search",
+    "phonetic": "[sɜːtʃ]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "搜索；检索；探究"
+      },
+      {
+        "pos": "动",
+        "definition": "搜索；搜寻"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "hunt",
+    "phonetic": "[hʌnt]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "打猎；搜寻"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "detail",
+    "phonetic": "[ˈdiːteɪl]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "细节；详情"
+      },
+      {
+        "pos": "动",
+        "definition": "详细说明"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "elaborate",
+    "phonetic": "[ɪˈlæbərət]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "精心制作；详尽阐述"
+      },
+      {
+        "pos": "形",
+        "definition": "精心制作的；详尽的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "concrete",
+    "phonetic": "[ˈkɒŋkriːt]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "具体的；有形的；混凝土的"
+      },
+      {
+        "pos": "名",
+        "definition": "混凝土；具体物"
+      },
+      {
+        "pos": "动",
+        "definition": "用混凝土覆盖"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "simplify",
+    "phonetic": "[ˈsɪmplɪfaɪ]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "简化"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "lengthy",
+    "phonetic": "[ˈleŋkθi]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "很长的；漫长的；冗长的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "brief",
+    "phonetic": "[briːf]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "短暂的；简短的，简明的"
+      },
+      {
+        "pos": "名",
+        "definition": "摘要；概要"
+      },
+      {
+        "pos": "动",
+        "definition": "为…提供信息"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "roughly",
+    "phonetic": "[ˈrʌfli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "粗略地；大约；粗暴地"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "moral",
+    "phonetic": "[ˈmɒrəl]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "道德的；道义上的"
+      },
+      {
+        "pos": "名",
+        "definition": "寓意；道德"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "ethical",
+    "phonetic": "[ˈeθɪk(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "伦理的；道德的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "ethics",
+    "phonetic": "[ˈeθɪks]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "道德规范；伦理"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "virtue",
+    "phonetic": "[ˈvɜːtʃuː]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "美德；优点"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "necessary",
+    "phonetic": "[ˈnesəsəri]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "必需的；必要的；必然的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "unnecessary",
+    "phonetic": "[ʌnˈnesəsəri]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "不需要的；不必要的；多余的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "necessarily",
+    "phonetic": "[ˌnesəˈserəli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "必然地；不可避免地"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "necessity",
+    "phonetic": "[nəˈsesəti]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "需要；必需品"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "entail",
+    "phonetic": "[ɪnˈteɪl]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "需要；使…必然发生"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "source",
+    "phonetic": "[sɔːs]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "来源；出处；源泉；源头；提供资料者"
+      },
+      {
+        "pos": "动",
+        "definition": "（从…）获得"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "resource",
+    "phonetic": "[rɪˈsɔːs]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "资源；物力；财力；智谋；才略"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "outsource",
+    "phonetic": "[ˈaʊtsɔːs]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "交外办理；外购"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "current",
+    "phonetic": "[ˈkʌrənt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "（水、气、电）流；趋势"
+      },
+      {
+        "pos": "形",
+        "definition": "当前的；流通的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "currently",
+    "phonetic": "[ˈkʌrəntli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "当前；现时"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "currency",
+    "phonetic": "[ˈkʌrənsi]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "货币；流通"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "occur",
+    "phonetic": "[əˈkɜː(r)]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "发生；出现"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "occurrence",
+    "phonetic": "[əˈkʌrəns]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "发生的事；发生"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "recur",
+    "phonetic": "[rɪˈkɜː(r)]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "重现；再发生"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "incur",
+    "phonetic": "[ɪnˈkɜː(r)]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "招致；遭受"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "up-to-date",
+    "phonetic": "[ˈʌp təˈdeɪt]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "最新的；最近的；新式的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "depend",
+    "phonetic": "[dɪˈpend]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "依靠；依赖；取决于"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "dependency",
+    "phonetic": "[dɪˈpendənsi]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "依赖；附属国；附属地"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "dependent",
+    "phonetic": "[dɪˈpendənt]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "依靠的；依赖的"
+      },
+      {
+        "pos": "名",
+        "definition": "依赖他人者；受赡养者；食客；寄人篱下 的仆从"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "independence",
+    "phonetic": "[ˌɪndɪˈpendəns]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "独立；自主"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "independent",
+    "phonetic": "[ˌɪndɪˈpendənt]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "独立的；自主的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "rely",
+    "phonetic": "[rɪˈlaɪ]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "依靠；信赖"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "reliance",
+    "phonetic": "[rɪˈlaɪəns]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "依赖；依靠；信任"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "reliable",
+    "phonetic": "[rɪˈlaɪəb(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "可靠的；可信的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "lean",
+    "phonetic": "[liːn]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "倾斜；倚靠"
+      },
+      {
+        "pos": "形",
+        "definition": "精瘦的；精简的；不景气的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  }
+]

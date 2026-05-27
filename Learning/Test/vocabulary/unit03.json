@@ -1,0 +1,2002 @@
+[
+  {
+    "word": "aside",
+    "phonetic": "[əˈsaɪd]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "在旁边；在一边"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "detach",
+    "phonetic": "[dɪˈtætʃ]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "脱离；拆卸；分离"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "federal",
+    "phonetic": "[ˈfedərəl]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "联邦的；联邦制的；联邦政府的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "democratic",
+    "phonetic": "[ˌdeməˈkrætɪk]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "民主的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "democracy",
+    "phonetic": "[dɪˈmɒkrəsi]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "民主"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "democratise",
+    "phonetic": "[dɪˈmɒkrətaɪz]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "使民主化"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "democratize",
+    "phonetic": "[dɪˈmɒkrətaɪz]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "（使）民主化；大众化"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "democrat",
+    "phonetic": "[ˈdeməkræt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "民主主义者；民主党员"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "conservative",
+    "phonetic": "[kənˈsɜːvətɪv]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "保守的；守旧的"
+      },
+      {
+        "pos": "名",
+        "definition": "守旧派；保守主义者"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "republic",
+    "phonetic": "[rɪˈpʌblɪk]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "共和国；共和政体"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "republican",
+    "phonetic": "[rɪˈpʌblɪkən]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "共和国的；共和政体的"
+      },
+      {
+        "pos": "名",
+        "definition": "共和党人"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "chancellor",
+    "phonetic": "[ˈtʃɑːnsələ(r)]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "大臣；总理"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "premier",
+    "phonetic": "[ˈpremiə(r)]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "总理；首相"
+      },
+      {
+        "pos": "形",
+        "definition": "第一的；首要的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "believe",
+    "phonetic": "[bɪˈliːv]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "相信；认为；信任"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "belief",
+    "phonetic": "[bɪˈliːf]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "信仰；信念"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "faith",
+    "phonetic": "[feɪθ]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "信心；信仰；信任；真诚；忠实"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "faithfulness",
+    "phonetic": "[ˈfeɪθf(ə)lnəs]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "忠诚；忠实；诚实"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "credit",
+    "phonetic": "[ˈkredɪt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "赞扬；荣誉；赊账；信用；贷款；学分"
+      },
+      {
+        "pos": "动",
+        "definition": "相信；给银行账户上存钱"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "credible",
+    "phonetic": "[ˈkredəb(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "可信的；可靠的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "credibility",
+    "phonetic": "[ˌkredəˈbɪləti]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "可信性；可靠性"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "incredible",
+    "phonetic": "[ɪnˈkredəb(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "难以置信的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "data",
+    "phonetic": "[ˈdeɪtə]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "数据；资料"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "database",
+    "phonetic": "[ˈdeɪtəbeɪs]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "数据库；信息库"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "analyse",
+    "phonetic": "[ˈænəlaɪz]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "分析"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "analyze",
+    "phonetic": "[ˈænəlaɪz]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "分析"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "analysis",
+    "phonetic": "[əˈnæləsɪs]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "分析；剖析"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "analyst",
+    "phonetic": "[ˈænəlɪst]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "分析者；化验员"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "analytic",
+    "phonetic": "[ˌænəˈlɪtɪk]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "分析的；解析的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "analytical",
+    "phonetic": "[ˌænəˈlɪtɪk(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "分析的；解析的；善于分析的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "statistical",
+    "phonetic": "[stəˈtɪstɪk(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "统计的；统计学的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "statistically",
+    "phonetic": "[stəˈtɪstɪkli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "统计地；统计上地"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "statistician",
+    "phonetic": "[ˌstætɪˈstɪʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "统计学家；统计员"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "statistics",
+    "phonetic": "[stəˈtɪstɪks]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "统计学；统计数字"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "influence",
+    "phonetic": "[ˈɪnfluəns]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "影响（力）；有影响的人或物"
+      },
+      {
+        "pos": "动",
+        "definition": "影响"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "influential",
+    "phonetic": "[ˌɪnfluˈenʃ(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "有影响力的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "affect",
+    "phonetic": "[əˈfekt]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "影响；感动；假装"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "effect",
+    "phonetic": "[ɪˈfekt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "影响；作用；效果；效应"
+      },
+      {
+        "pos": "动",
+        "definition": "引起；实现；使生效"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "effective",
+    "phonetic": "[ɪˈfektɪv]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "有效的；生效的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "ineffective",
+    "phonetic": "[ˌɪnɪˈfektɪv]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "无效果的；不起作用的；不奏效 的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "effectively",
+    "phonetic": "[ɪˈfektɪvli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "有效地；实际上"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "effectiveness",
+    "phonetic": "[ɪˈfektɪvnəs]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "有效性；效力"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "efficiency",
+    "phonetic": "[ɪˈfɪʃ(ə)nsi]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "效率；功效"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "efficient",
+    "phonetic": "[ɪˈfɪʃ(ə)nt]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "效率高的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "impact",
+    "phonetic": "[ˈɪmpækt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "冲击（力）；影响力"
+      },
+      {
+        "pos": "动",
+        "definition": "冲击；撞击；对…产生影响"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "interact",
+    "phonetic": "[ˌɪntərˈækt]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "互相作用；互相影响；交流；沟 通"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "interaction",
+    "phonetic": "[ˌɪntərˈækʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "相互作用；相互影响；互动交流"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "interplay",
+    "phonetic": "[ˈɪntəpleɪ]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "相互作用"
+      },
+      {
+        "pos": "名",
+        "definition": "相互作用"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "reason",
+    "phonetic": "[ˈriːz(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "原因；理由；理性"
+      },
+      {
+        "pos": "动",
+        "definition": "推理；推断；讲道理；思考"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "reasoning",
+    "phonetic": "[ˈriːzənɪŋ]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "推理；推论"
+      },
+      {
+        "pos": "动",
+        "definition": "推理；推断；讲道理； “reason” 的现在 分词"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "reasonable",
+    "phonetic": "[ˈriːznəb(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "合理的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "unreasonable",
+    "phonetic": "[ʌnˈriːznəb(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "不理智的；不合理的；过度的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "rational",
+    "phonetic": "[ˈræʃnəl]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "理性的；理智的；合理的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "rationalist",
+    "phonetic": "[ˈræʃnəlɪst]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "理性主义者；唯理论者"
+      },
+      {
+        "pos": "形",
+        "definition": "理性主义者的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "logic",
+    "phonetic": "[ˈlɒdʒɪk]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "逻辑"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "logical",
+    "phonetic": "[ˈlɒdʒɪk(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "逻辑上的；合乎逻辑的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "coherent",
+    "phonetic": "[kəʊˈhɪərənt]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "连贯的；一致的；条理分明的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "likely",
+    "phonetic": "[ˈlaɪkli]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "可能的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "unlikely",
+    "phonetic": "[ʌnˈlaɪkli]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "不大可能的；不一定有把握的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "possible",
+    "phonetic": "[ˈpɒsəb(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "可能的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "impossible",
+    "phonetic": "[ɪmˈpɒsəb(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "不可能的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "possibly",
+    "phonetic": "[ˈpɒsəbli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "可能地；也许"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "possibility",
+    "phonetic": "[ˌpɒsəˈbɪləti]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "可能性；可能"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "probably",
+    "phonetic": "[ˈprɒbəbli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "大概；或许；很可能"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "probability",
+    "phonetic": "[ˌprɒbəˈbɪləti]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "概率；可能性；几率"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "perhaps",
+    "phonetic": "[pəˈhæps]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "或许；可能"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "potential",
+    "phonetic": "[pəˈtenʃ(ə)l]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "潜力"
+      },
+      {
+        "pos": "形",
+        "definition": "潜在的；可能的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "potentially",
+    "phonetic": "[pəˈtenʃəli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "潜在地"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "information",
+    "phonetic": "[ˌɪnfəˈmeɪʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "信息；资料"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "inform",
+    "phonetic": "[ɪnˈfɔːm]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "通知；告知"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "require",
+    "phonetic": "[rɪˈkwaɪə(r)]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "需要；要求"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "requirement",
+    "phonetic": "[rɪˈkwaɪəmənt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "需求；要求；必要条件"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "acquire",
+    "phonetic": "[əˈkwaɪə(r)]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "获得；得到；学会"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "acquisition",
+    "phonetic": "[ˌækwɪˈzɪʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "获得；得到的东西；收购"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "create",
+    "phonetic": "[kriˈeɪt]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "创造；创作"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "creation",
+    "phonetic": "[kriˈeɪʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "创作；创造物"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "creative",
+    "phonetic": "[kriˈeɪtɪv]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "有创造力的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "creativity",
+    "phonetic": "[ˌkriːeɪˈtɪvəti]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "创造力；创造"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "invent",
+    "phonetic": "[ɪnˈvent]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "发明；创造"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "invention",
+    "phonetic": "[ɪnˈvenʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "发明；创造"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "reinvent",
+    "phonetic": "[ˌriːɪnˈvent]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "彻底改造；重复发明；重新创造"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "lead",
+    "phonetic": "[liːd]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "领导；带领；导致"
+      },
+      {
+        "pos": "名",
+        "definition": "铅"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "leader",
+    "phonetic": "[ˈliːdə(r)]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "领袖；领导者"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "leadership",
+    "phonetic": "[ˈliːdəʃɪp]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "领导才能；领导地位"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "misleading",
+    "phonetic": "[ˌmɪsˈliːdɪŋ]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "误导的；引入歧途的"
+      },
+      {
+        "pos": "动",
+        "definition": "误导；“mislead” 的现在分词"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "guide",
+    "phonetic": "[ɡaɪd]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "指导；指引"
+      },
+      {
+        "pos": "名",
+        "definition": "指南；向导；导游"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "guideline",
+    "phonetic": "[ˈɡaɪdlaɪn]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "指导路线；方针"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "guidance",
+    "phonetic": "[ˈɡaɪd(ə)ns]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "指导；引导"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "principle",
+    "phonetic": "[ˈprɪnsəp(ə)l]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "原则；原理"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "share",
+    "phonetic": "[ʃeə(r)]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "共享；分享"
+      },
+      {
+        "pos": "名",
+        "definition": "分享；股份"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "shareholder",
+    "phonetic": "[ˈʃeəhəʊldə(r)]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "股东；持股人"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "stock",
+    "phonetic": "[stɒk]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "库存；股票；家畜；出身"
+      },
+      {
+        "pos": "动",
+        "definition": "备有；贮存"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "plan",
+    "phonetic": "[plæn]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "计划；打算"
+      },
+      {
+        "pos": "动",
+        "definition": "计划；打算"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "project",
+    "phonetic": "[ˈprɒdʒekt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "计划；方案；项目；课题"
+      },
+      {
+        "pos": "动",
+        "definition": "预计；计划；投射；突出"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "projection",
+    "phonetic": "[prəˈdʒekʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "预测；投射；放映"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "conceive",
+    "phonetic": "[kənˈsiːv]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "构思；设想；怀孕"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "scheme",
+    "phonetic": "[skiːm]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "阴谋；计划"
+      },
+      {
+        "pos": "动",
+        "definition": "密谋；策划"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "design",
+    "phonetic": "[dɪˈzaɪn]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "设计；计划；谋划；构思"
+      },
+      {
+        "pos": "名",
+        "definition": "设计；图案；花样；企图；图谋"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "program",
+    "phonetic": "[ˈprəʊɡræm]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "程序；节目"
+      },
+      {
+        "pos": "动",
+        "definition": "编程"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "programme",
+    "phonetic": "[ˈprəʊɡræm]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "节目；计划；程序"
+      },
+      {
+        "pos": "动",
+        "definition": "安排；计划；编程"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "report",
+    "phonetic": "[rɪˈpɔːt]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "报告；报道"
+      },
+      {
+        "pos": "名",
+        "definition": "报告；报道"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "journalism",
+    "phonetic": "[ˈdʒɜːnəlɪzəm]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "新闻工作；新闻业"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "journalistic",
+    "phonetic": "[ˌdʒɜːnəˈlɪstɪk]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "新闻业的；新闻工作（者）的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "media",
+    "phonetic": "[ˈmiːdiə]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "媒介；媒体；“medium” 的复数"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "coverage",
+    "phonetic": "[ˈkʌvərɪdʒ]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "覆盖范围；新闻报道；保险"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "phenomenon",
+    "phonetic": "[fəˈnɒmɪnən]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "现象；非凡的人或事；杰出的人"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "include",
+    "phonetic": "[ɪnˈkluːd]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "包括；包含"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "inclusive",
+    "phonetic": "[ɪnˈkluːsɪv]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "包含全部费用的；包含的；包容 的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "exclude",
+    "phonetic": "[ɪkˈskluːd]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "排除；排斥"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "exclusive",
+    "phonetic": "[ɪkˈskluːsɪv]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "独有的；高级的；排外的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "exclusively",
+    "phonetic": "[ɪkˈskluːsɪvli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "排外地；专有地"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "value",
+    "phonetic": "[ˈvæljuː]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "价值；（数）值"
+      },
+      {
+        "pos": "动",
+        "definition": "估价；重视"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "valuable",
+    "phonetic": "[ˈvæljuəb(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "有价值的；贵重的；值钱的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "overvalue",
+    "phonetic": "[ˌəʊvəˈvæljuː]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "对…定价过高；估计过高"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "devalue",
+    "phonetic": "[ˌdiːˈvæljuː]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "使贬值；贬低"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "devaluation",
+    "phonetic": "[ˌdiːˌvæljuˈeɪʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "货币贬值"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "around",
+    "phonetic": "[əˈraʊnd]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "到处；在附近；环绕；大约"
+      },
+      {
+        "pos": "介",
+        "definition": "在…周围；环绕"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "surround",
+    "phonetic": "[səˈraʊnd]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "环绕；围绕"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "surrounding",
+    "phonetic": "[səˈraʊndɪŋ]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "周围的；附近的"
+      },
+      {
+        "pos": "动",
+        "definition": "环绕；围绕；“surround” 的现在分词"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "surroundings",
+    "phonetic": "[səˈraʊndɪŋz]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "环境"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "approximately",
+    "phonetic": "[əˈprɒksɪmətli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "大约；大概"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "product",
+    "phonetic": "[ˈprɒdʌkt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "产品；产物；成果；〈数〉积"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "produce",
+    "phonetic": "[prəˈdjuːs]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "生产；生育；制造；出示；导致；引起"
+      },
+      {
+        "pos": "名",
+        "definition": "农产品"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "producer",
+    "phonetic": "[prəˈdjuːsə(r)]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "生产者；制造商；制片人"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "production",
+    "phonetic": "[prəˈdʌkʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "生产；制造；产量"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "productive",
+    "phonetic": "[prəˈdʌktɪv]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "生产的；多产的；富有成效的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "productivity",
+    "phonetic": "[ˌprɒdʌkˈtɪvəti]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "生产力；生产率"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "by-product",
+    "phonetic": "[ˈbaɪ prɒdʌkt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "副产品；意外结果"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "output",
+    "phonetic": "[ˈaʊtpʊt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "产量；产物；输出"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "yield",
+    "phonetic": "[jiːld]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "生产；获利；屈服；让步"
+      },
+      {
+        "pos": "名",
+        "definition": "产量；利润"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "reap",
+    "phonetic": "[riːp]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "收割；收获；获得"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "case",
+    "phonetic": "[keɪs]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "事例；情况；案件；外壳；容器 （箱，盒）"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "situation",
+    "phonetic": "[ˌsɪtʃuˈeɪʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "情况；形势；情境"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "circumstance",
+    "phonetic": "[ˈsɜːkəmstəns]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "环境；情况"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "context",
+    "phonetic": "[ˈkɒntekst]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "上下文；语境；环境"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "instance",
+    "phonetic": "[ˈɪnstəns]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "例子；场合；情况"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "condition",
+    "phonetic": "[kənˈdɪʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "状态；条件；环境"
+      },
+      {
+        "pos": "动",
+        "definition": "使适应；影响；保养"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "conditional",
+    "phonetic": "[kənˈdɪʃən(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "附带条件的；依…而定的"
+      },
+      {
+        "pos": "名",
+        "definition": "条件句"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "call",
+    "phonetic": "[kɔːl]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "打电话"
+      },
+      {
+        "pos": "动",
+        "definition": "叫；打电话"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "recall",
+    "phonetic": "[rɪˈkɔːl]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "回忆起；召回"
+      },
+      {
+        "pos": "名",
+        "definition": "记忆力"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "concern",
+    "phonetic": "[kənˈsɜːn]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "涉及；担忧"
+      },
+      {
+        "pos": "名",
+        "definition": "担忧；挂念；关注；关心"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "concerned",
+    "phonetic": "[kənˈsɜːnd]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "担心的；关注的"
+      },
+      {
+        "pos": "动",
+        "definition": "涉及到；担忧；“concern” 的过去式和 过去分词"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "discern",
+    "phonetic": "[dɪˈsɜːn]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "辨明；识别；洞悉"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "caregiver",
+    "phonetic": "[ˈkeəɡɪvə(r)]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "照顾者；护理者；看护者"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "history",
+    "phonetic": "[ˈhɪstri]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "历史；历史学"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "historian",
+    "phonetic": "[hɪˈstɔːriən]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "历史学家"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "historic",
+    "phonetic": "[hɪˈstɒrɪk]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "有历史意义的；历史性的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "historical",
+    "phonetic": "[hɪˈstɒrɪk(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "有关历史的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "historically",
+    "phonetic": "[hɪˈstɒrɪkli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "在历史上"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "chronicle",
+    "phonetic": "[ˈkrɒnɪk(ə)l]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "编年史；年代记"
+      },
+      {
+        "pos": "动",
+        "definition": "按时间顺序记录"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "chronic",
+    "phonetic": "[ˈkrɒnɪk]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "长期的；慢性的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "rise",
+    "phonetic": "[raɪz]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "上升；提高"
+      },
+      {
+        "pos": "名",
+        "definition": "上升；提高"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "arise",
+    "phonetic": "[əˈraɪz]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "出现；发生；起来"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "raise",
+    "phonetic": "[reɪz]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "提起；增加；养育；筹募；引起"
+      },
+      {
+        "pos": "名",
+        "definition": "加薪"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "arouse",
+    "phonetic": "[əˈraʊz]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "引起（兴趣/ 愤怒等）"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  }
+]

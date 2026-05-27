@@ -1,0 +1,2150 @@
+[
+  {
+    "word": "task",
+    "phonetic": "[tɑːsk]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "任务；工作；作业"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "user",
+    "phonetic": "[ˈjuːzə(r)]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "用户；使用者"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "practise",
+    "phonetic": "[ˈpræktɪs]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "练习；实践"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "fear",
+    "phonetic": "[fɪə(r)]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "害怕；惧怕"
+      },
+      {
+        "pos": "名",
+        "definition": "害怕；惧怕"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "foreign",
+    "phonetic": "[ˈfɒrən]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "外国的；外来的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "within",
+    "phonetic": "[wɪˈðɪn]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "在内部；在里面"
+      },
+      {
+        "pos": "介",
+        "definition": "在…内；不超过"
+      },
+      {
+        "pos": "名",
+        "definition": "内部；里面"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "carbon",
+    "phonetic": "[ˈkɑːbən]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "碳；复写纸"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "happy",
+    "phonetic": "[ˈhæpi]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "快乐的；高兴的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "hour",
+    "phonetic": "[ˈaʊə(r)]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "小时"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "moment",
+    "phonetic": "[ˈməʊmənt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "瞬间；片刻"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "nearly",
+    "phonetic": "[ˈnɪəli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "几乎；将近；差不多"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "nothing",
+    "phonetic": "[ˈnʌθɪŋ]",
+    "meanings": [
+      {
+        "pos": "代",
+        "definition": "没有什么"
+      },
+      {
+        "pos": "名",
+        "definition": "无关紧要的事"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "oil",
+    "phonetic": "[ɔɪl]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "油；石油"
+      },
+      {
+        "pos": "动",
+        "definition": "给…加润滑油"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "pass",
+    "phonetic": "[pɑːs]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "路过；(时间) 流逝；超过；传递；通过"
+      },
+      {
+        "pos": "名",
+        "definition": "(考试) 及格；通行证"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "side",
+    "phonetic": "[saɪd]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "边；旁边；面"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "town",
+    "phonetic": "[taʊn]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "镇；城镇；市镇"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "above",
+    "phonetic": "[əˈbʌv]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "在上面"
+      },
+      {
+        "pos": "介",
+        "definition": "在…上面"
+      },
+      {
+        "pos": "形",
+        "definition": "上述的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "along",
+    "phonetic": "[əˈlɒŋ]",
+    "meanings": [
+      {
+        "pos": "介",
+        "definition": "沿着"
+      },
+      {
+        "pos": "副",
+        "definition": "沿着"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "behind",
+    "phonetic": "[bɪˈhaɪnd]",
+    "meanings": [
+      {
+        "pos": "介",
+        "definition": "在…后面"
+      },
+      {
+        "pos": "副",
+        "definition": "在后面"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "death",
+    "phonetic": "[deθ]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "死亡"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "doctor",
+    "phonetic": "[ˈdɒktə(r)]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "医生；博士"
+      },
+      {
+        "pos": "动",
+        "definition": "篡改"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "gain",
+    "phonetic": "[ɡeɪn]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "获得；增加"
+      },
+      {
+        "pos": "名",
+        "definition": "获得；增益"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "itself",
+    "phonetic": "[ɪtˈself]",
+    "meanings": [
+      {
+        "pos": "代",
+        "definition": "它自己"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "light",
+    "phonetic": "[laɪt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "光；灯；光线"
+      },
+      {
+        "pos": "形",
+        "definition": "轻的；浅的；明亮的；少量的"
+      },
+      {
+        "pos": "动",
+        "definition": "点燃；照亮"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "really",
+    "phonetic": "[ˈrɪəli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "真正地；非常地"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "recently",
+    "phonetic": "[ˈriːs(ə)ntli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "最近；近来"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "sound",
+    "phonetic": "[saʊnd]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "声音；声响"
+      },
+      {
+        "pos": "动",
+        "definition": "响；听起来"
+      },
+      {
+        "pos": "形",
+        "definition": "健全的；完好的；合理的；可靠的；酣睡的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "sport",
+    "phonetic": "[spɔːt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "体育运动"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "television",
+    "phonetic": "[ˈtelɪvɪʒ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "电视机；电视节目；电视行业"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "TV",
+    "phonetic": "[ˌtiː ˈviː]",
+    "meanings": [
+      {
+        "pos": "缩",
+        "definition": "电视机；“television” 的缩写"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "therefore",
+    "phonetic": "[ˈðeəfɔː(r)]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "因此；所以"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "usually",
+    "phonetic": "[ˈjuːʒʊəli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "通常；一般"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "whole",
+    "phonetic": "[həʊl]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "整个；全部"
+      },
+      {
+        "pos": "形",
+        "definition": "全部的；整体的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "across",
+    "phonetic": "[əˈkrɒs]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "横过；穿过；越过；在对面"
+      },
+      {
+        "pos": "介",
+        "definition": "穿过；横过；在…对面"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "actually",
+    "phonetic": "[ˈæktʃuəli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "事实上；实际上；竟然"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "billion",
+    "phonetic": "[ˈbɪljən]",
+    "meanings": [
+      {
+        "pos": "数",
+        "definition": "十亿"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "else",
+    "phonetic": "[els]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "别的；其他的"
+      },
+      {
+        "pos": "副",
+        "definition": "另外；其他"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "hear",
+    "phonetic": "[hɪə(r)]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "听；听见"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "daily",
+    "phonetic": "[ˈdeɪli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "每天；每日"
+      },
+      {
+        "pos": "形",
+        "definition": "每天的；每日的"
+      },
+      {
+        "pos": "名",
+        "definition": "日报"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "due",
+    "phonetic": "[djuː]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "预期的；应给的；到期的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "key",
+    "phonetic": "[kiː]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "钥匙；关键"
+      },
+      {
+        "pos": "形",
+        "definition": "关键的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "material",
+    "phonetic": "[məˈtɪəriəl]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "材料；原料"
+      },
+      {
+        "pos": "形",
+        "definition": "物质的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "push",
+    "phonetic": "[pʊʃ]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "推；按；挤；逼迫"
+      },
+      {
+        "pos": "名",
+        "definition": "推；奋力；决心"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "shop",
+    "phonetic": "[ʃɒp]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "商店"
+      },
+      {
+        "pos": "动",
+        "definition": "购物"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "slow",
+    "phonetic": "[sləʊ]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "缓慢的；漫长的；迟钝的"
+      },
+      {
+        "pos": "动",
+        "definition": "使减速"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "either",
+    "phonetic": "[ˈaɪðə(r)]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "也（用于否定词组后）"
+      },
+      {
+        "pos": "代",
+        "definition": "两者中的任何一个；（用于否定句）两者都不"
+      },
+      {
+        "pos": "连",
+        "definition": "两者之一"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "mother",
+    "phonetic": "[ˈmʌðə(r)]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "母亲"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "surprise",
+    "phonetic": "[səˈpraɪz]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "使惊奇；使感到意外"
+      },
+      {
+        "pos": "名",
+        "definition": "惊讶；惊喜；意外"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "writer",
+    "phonetic": "[ˈraɪtə(r)]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "作家；作者"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "add",
+    "phonetic": "[æd]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "加；增加；补充说"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "article",
+    "phonetic": "[ˈɑːtɪk(ə)l]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "文章；物品；项目；条款；冠词"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "forest",
+    "phonetic": "[ˈfɒrɪst]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "森林"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "immediate",
+    "phonetic": "[ɪˈmiːdiət]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "立即的；即刻的；最近的；紧接 的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "sell",
+    "phonetic": "[sel]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "出售；卖"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "send",
+    "phonetic": "[send]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "发送；送；寄"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "soon",
+    "phonetic": "[suːn]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "很快；不久"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "amount",
+    "phonetic": "[əˈmaʊnt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "数量；数额"
+      },
+      {
+        "pos": "动",
+        "definition": "总计；等于"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "earn",
+    "phonetic": "[ɜːn]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "获得；赚得"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "enjoy",
+    "phonetic": "[ɪnˈdʒɔɪ]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "享受；享有；喜爱"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "grade",
+    "phonetic": "[ɡreɪd]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "等级；年级；级别"
+      },
+      {
+        "pos": "动",
+        "definition": "分等级；给…评分"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "indeed",
+    "phonetic": "[ɪnˈdiːd]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "的确；真正地"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "link",
+    "phonetic": "[lɪŋk]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "连接物；链环"
+      },
+      {
+        "pos": "动",
+        "definition": "连接；联系"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "month",
+    "phonetic": "[mʌnθ]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "月；月份"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "smile",
+    "phonetic": "[smaɪl]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "微笑"
+      },
+      {
+        "pos": "名",
+        "definition": "微笑；笑容"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "store",
+    "phonetic": "[stɔː(r)]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "商店；店铺；仓库；储存"
+      },
+      {
+        "pos": "动",
+        "definition": "贮藏；存储"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "style",
+    "phonetic": "[staɪl]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "风格；样式；方式；文体"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "teacher",
+    "phonetic": "[ˈtiːtʃə(r)]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "教师"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "third",
+    "phonetic": "[θɜːd]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "三分之一；第三"
+      },
+      {
+        "pos": "形",
+        "definition": "第三的"
+      },
+      {
+        "pos": "副",
+        "definition": "第三"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "certain",
+    "phonetic": "[ˈsɜːt(ə)n]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "确定的；一定的；某个；一定程 度上的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "air",
+    "phonetic": "[eə(r)]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "空气；空中；气氛；神态"
+      },
+      {
+        "pos": "动",
+        "definition": "（使）通风；播出；晾干"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "anyone",
+    "phonetic": "[ˈeniwʌn]",
+    "meanings": [
+      {
+        "pos": "代",
+        "definition": "任何人"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "cancer",
+    "phonetic": "[ˈkænsə(r)]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "癌；癌症"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "everything",
+    "phonetic": "[ˈevriθɪŋ]",
+    "meanings": [
+      {
+        "pos": "代",
+        "definition": "每件事；一切事物"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "female",
+    "phonetic": "[ˈfiːmeɪl]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "女性；雌性"
+      },
+      {
+        "pos": "形",
+        "definition": "女性的；雌性的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "fire",
+    "phonetic": "[ˈfaɪə(r)]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "火；炮火；热情；激情"
+      },
+      {
+        "pos": "动",
+        "definition": "射击；开火；解雇；激发"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "freedom",
+    "phonetic": "[ˈfriːdəm]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "自由"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "giant",
+    "phonetic": "[ˈdʒaɪənt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "巨人；伟人"
+      },
+      {
+        "pos": "形",
+        "definition": "巨大的；伟大的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "quickly",
+    "phonetic": "[ˈkwɪkli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "迅速地；快地"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "rat",
+    "phonetic": "[ræt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "老鼠；耗子"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "web",
+    "phonetic": "[web]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "网；网络；网状物"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "wrong",
+    "phonetic": "[rɒŋ]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "错误的"
+      },
+      {
+        "pos": "名",
+        "definition": "错误"
+      },
+      {
+        "pos": "副",
+        "definition": "错误地"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "cut",
+    "phonetic": "[kʌt]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "切；割；削减"
+      },
+      {
+        "pos": "名",
+        "definition": "切；割；伤口；削减"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "fill",
+    "phonetic": "[fɪl]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "填充；装满；充满"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "homework",
+    "phonetic": "[ˈhəʊmwɜːk]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "家庭作业；功课"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "hope",
+    "phonetic": "[həʊp]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "希望"
+      },
+      {
+        "pos": "动",
+        "definition": "希望"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "mention",
+    "phonetic": "[ˈmenʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "提到；说到"
+      },
+      {
+        "pos": "名",
+        "definition": "提及；说起"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "quite",
+    "phonetic": "[kwaɪt]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "很；相当；非常；完全"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "serious",
+    "phonetic": "[ˈsɪəriəs]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "严肃的；严重的；庄重的；认真 的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "simple",
+    "phonetic": "[ˈsɪmp(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "简单的；朴素的；单纯的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "someone",
+    "phonetic": "[ˈsʌmwʌn]",
+    "meanings": [
+      {
+        "pos": "代",
+        "definition": "某人"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "teach",
+    "phonetic": "[tiːtʃ]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "教；教导"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "tool",
+    "phonetic": "[tuːl]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "工具；刀具；器具"
+      },
+      {
+        "pos": "动",
+        "definition": "用工具加工"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "warm",
+    "phonetic": "[wɔːm]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "温暖的"
+      },
+      {
+        "pos": "动",
+        "definition": "（使）变暖"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "experiment",
+    "phonetic": "[ɪkˈsperɪmənt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "实验；试验"
+      },
+      {
+        "pos": "动",
+        "definition": "做试验；进行实验"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "agency",
+    "phonetic": "[ˈeɪdʒənsi]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "机构；局；代理处"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "beginning",
+    "phonetic": "[bɪˈɡɪnɪŋ]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "开头；开端"
+      },
+      {
+        "pos": "动",
+        "definition": "开始；着手； “begin” 的现在分词"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "eat",
+    "phonetic": "[iːt]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "吃"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "enter",
+    "phonetic": "[ˈentə(r)]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "进入；进去"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "male",
+    "phonetic": "[meɪl]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "男性的；雄性的"
+      },
+      {
+        "pos": "名",
+        "definition": "男性；雄性"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "per",
+    "phonetic": "[pə(r)]",
+    "meanings": [
+      {
+        "pos": "介",
+        "definition": "每；每一"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "road",
+    "phonetic": "[rəʊd]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "道路；公路"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "travel",
+    "phonetic": "[ˈtræv(ə)l]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "旅游；旅行"
+      },
+      {
+        "pos": "名",
+        "definition": "旅游；旅行"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "upon",
+    "phonetic": "[əˈpɒn]",
+    "meanings": [
+      {
+        "pos": "介",
+        "definition": "在…之上"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "white",
+    "phonetic": "[waɪt]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "白色的"
+      },
+      {
+        "pos": "名",
+        "definition": "白色"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "worse",
+    "phonetic": "[wɜːs]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "更糟；更坏"
+      },
+      {
+        "pos": "形",
+        "definition": "更坏的；更糟糕的；“bad” 的比较级"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "zoo",
+    "phonetic": "[zuː]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "动物园"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "story",
+    "phonetic": "[ˈstɔːri]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "故事；小说； 轶事；假话"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "bill",
+    "phonetic": "[bɪl]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "账单；钞票；议案"
+      },
+      {
+        "pos": "动",
+        "definition": "给…开账单"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "bird",
+    "phonetic": "[bɜːd]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "鸟"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "head",
+    "phonetic": "[hed]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "头；脑袋；上端；首脑"
+      },
+      {
+        "pos": "动",
+        "definition": "朝…行进；居首位；领导"
+      },
+      {
+        "pos": "形",
+        "definition": "头的；主要的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "score",
+    "phonetic": "[skɔː(r)]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "得分；分数；二十；总谱；乐谱"
+      },
+      {
+        "pos": "动",
+        "definition": "得分；记分"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "size",
+    "phonetic": "[saɪz]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "大小；尺码"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "wide",
+    "phonetic": "[waɪd]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "宽的；宽阔的；广泛的"
+      },
+      {
+        "pos": "副",
+        "definition": "广阔地；广大地"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "yourself",
+    "phonetic": "[jɔːˈself]",
+    "meanings": [
+      {
+        "pos": "代",
+        "definition": "你自己"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "catch",
+    "phonetic": "[kætʃ]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "接住；抓住；赶上；得病；理解"
+      },
+      {
+        "pos": "名",
+        "definition": "接住；搭扣"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "colleague",
+    "phonetic": "[ˈkɒliːɡ]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "同事"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "easily",
+    "phonetic": "[ˈiːzəli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "容易地；不费力地"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "exercise",
+    "phonetic": "[ˈeksəsaɪz]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "练习；锻炼；运动；行使"
+      },
+      {
+        "pos": "动",
+        "definition": "运用；使用；锻炼；使担忧"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "hot",
+    "phonetic": "[hɒt]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "热的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "hundred",
+    "phonetic": "[ˈhʌndrəd]",
+    "meanings": [
+      {
+        "pos": "数",
+        "definition": "百；一百"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "love",
+    "phonetic": "[lʌv]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "爱；爱情；爱好的事物"
+      },
+      {
+        "pos": "动",
+        "definition": "爱；热爱"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "print",
+    "phonetic": "[prɪnt]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "打印；印刷"
+      },
+      {
+        "pos": "名",
+        "definition": "打印；印刷"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "race",
+    "phonetic": "[reɪs]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "种族；赛跑；竞争"
+      },
+      {
+        "pos": "动",
+        "definition": "比赛；快速移动"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "rest",
+    "phonetic": "[rest]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "（使）休息；（使）倚靠；停留在；中止"
+      },
+      {
+        "pos": "名",
+        "definition": "休息；其他；剩余部分；宁静"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "introduce",
+    "phonetic": "[ˌɪntrəˈdjuːs]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "介绍；引进"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "baby",
+    "phonetic": "[ˈbeɪbi]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "婴儿；宝贝"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "dioxide",
+    "phonetic": "[daɪˈɒksaɪd]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "二氧化物"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "eventually",
+    "phonetic": "[ɪˈventʃuəli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "最后；终于"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "flow",
+    "phonetic": "[fləʊ]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "流动"
+      },
+      {
+        "pos": "动",
+        "definition": "流动"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "gender",
+    "phonetic": "[ˈdʒendə(r)]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "性别；（语法）性"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "healthy",
+    "phonetic": "[ˈhelθi]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "健康的；健壮的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "himself",
+    "phonetic": "[hɪmˈself]",
+    "meanings": [
+      {
+        "pos": "代",
+        "definition": "他自己"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "journalist",
+    "phonetic": "[ˈdʒɜːnəlɪst]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "新闻工作者"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "let",
+    "phonetic": "[let]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "让；允许；放开；出租"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "nurse",
+    "phonetic": "[nɜːs]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "护士；保姆"
+      },
+      {
+        "pos": "动",
+        "definition": "护理；照料；喂奶"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "street",
+    "phonetic": "[striːt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "街道；大街"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "traffic",
+    "phonetic": "[ˈtræfɪk]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "交通；流量；非法交易"
+      },
+      {
+        "pos": "动",
+        "definition": "非法买卖"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "wait",
+    "phonetic": "[weɪt]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "等待；等候"
+      },
+      {
+        "pos": "名",
+        "definition": "等待；等候"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "conversation",
+    "phonetic": "[ˌkɒnvəˈseɪʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "谈话；会话；交谈"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "aspect",
+    "phonetic": "[ˈæspekt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "方面；模样；朝向"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "farm",
+    "phonetic": "[fɑːm]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "农场；农庄"
+      },
+      {
+        "pos": "动",
+        "definition": "耕种；务农"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "father",
+    "phonetic": "[ˈfɑːðə(r)]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "父亲；爸爸"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "fight",
+    "phonetic": "[faɪt]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "打架；战斗"
+      },
+      {
+        "pos": "名",
+        "definition": "打架；战斗"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "frequently",
+    "phonetic": "[ˈfriːkwəntli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "频繁地；时常"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "hardly",
+    "phonetic": "[ˈhɑːdli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "几乎没有；简直不"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "heart",
+    "phonetic": "[hɑːt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "心；心脏"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "highly",
+    "phonetic": "[ˈhaɪli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "非常；高度地"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "lie",
+    "phonetic": "[laɪ]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "躺；撒谎；欺骗"
+      },
+      {
+        "pos": "名",
+        "definition": "谎言"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "near",
+    "phonetic": "[nɪə(r)]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "近的"
+      },
+      {
+        "pos": "介",
+        "definition": "靠近；在…附近"
+      },
+      {
+        "pos": "副",
+        "definition": "近地"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "net",
+    "phonetic": "[net]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "网；网状物"
+      },
+      {
+        "pos": "形",
+        "definition": "净余的；纯粹的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "noise",
+    "phonetic": "[nɔɪz]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "噪声；噪音"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "ourselves",
+    "phonetic": "[ˌaʊəˈselvz]",
+    "meanings": [
+      {
+        "pos": "代",
+        "definition": "我们自己"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "pace",
+    "phonetic": "[peɪs]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "一步；步伐；步速"
+      },
+      {
+        "pos": "动",
+        "definition": "踱步；调整步调"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "seven",
+    "phonetic": "[ˈsev(ə)n]",
+    "meanings": [
+      {
+        "pos": "数",
+        "definition": "七"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  }
+]

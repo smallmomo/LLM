@@ -1,0 +1,2038 @@
+[
+  {
+    "word": "transformer",
+    "phonetic": "[trænsˈfɔːmə(r)]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "变压器"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "uniform",
+    "phonetic": "[ˈjuːnɪfɔːm]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "一致的；统一的"
+      },
+      {
+        "pos": "名",
+        "definition": "制服"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "former",
+    "phonetic": "[ˈfɔːmə(r)]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "以前的；前者的"
+      },
+      {
+        "pos": "名",
+        "definition": "模子"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "common",
+    "phonetic": "[ˈkɒmən]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "常见的；普通的；共有的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "commonality",
+    "phonetic": "[ˈkɒmənæləti]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "共同性；共通性"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "commonly",
+    "phonetic": "[ˈkɒmənli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "一般地；通常地"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "commonness",
+    "phonetic": "[ˈkɒmənnəs]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "普通；平凡；共性"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "average",
+    "phonetic": "[ˈævərɪdʒ]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "平均的；普通的"
+      },
+      {
+        "pos": "名",
+        "definition": "平均数；平均水平"
+      },
+      {
+        "pos": "动",
+        "definition": "平均为…"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "normal",
+    "phonetic": "[ˈnɔːm(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "正常的；一般的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "normally",
+    "phonetic": "[ˈnɔːməli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "正常地；通常地"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "involve",
+    "phonetic": "[ɪnˈvɒlv]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "牵涉；包括"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "involvement",
+    "phonetic": "[ɪnˈvɒlvmənt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "参与；投入；加入；插手"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "evolve",
+    "phonetic": "[ɪˈvɒlv]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "形成；演变；进化"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "evolution",
+    "phonetic": "[ˌiːvəˈluːʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "进化；演变；发展"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "evolutionary",
+    "phonetic": "[ˌiːvəˈluːʃənri]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "进化的；发展的；演变的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "revolve",
+    "phonetic": "[rɪˈvɒlv]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "旋转；考虑；围绕"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "revolution",
+    "phonetic": "[ˌrevəˈluːʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "革命"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "revolutionary",
+    "phonetic": "[ˌrevəˈluːʃənəri]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "革命的；改革性的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "limit",
+    "phonetic": "[ˈlɪmɪt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "限制"
+      },
+      {
+        "pos": "动",
+        "definition": "限制"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "limitation",
+    "phonetic": "[ˌlɪmɪˈteɪʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "限制；局限性"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "restrict",
+    "phonetic": "[rɪˈstrɪkt]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "限制；约束"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "restriction",
+    "phonetic": "[rɪˈstrɪkʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "限制；约束；限定"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "restrictive",
+    "phonetic": "[rɪˈstrɪktɪv]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "限制性的；约束的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "refrain",
+    "phonetic": "[rɪˈfreɪn]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "克制；抑制；忍耐"
+      },
+      {
+        "pos": "名",
+        "definition": "副歌；经常重复的评价（或抱怨）；叠句"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "sanction",
+    "phonetic": "[ˈsæŋkʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "批准；允许；认可；制裁；处罚"
+      },
+      {
+        "pos": "动",
+        "definition": "批准；认可；制裁；处罚"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "confine",
+    "phonetic": "[kənˈfaɪn]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "限制；监禁"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "demand",
+    "phonetic": "[dɪˈmɑːnd]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "要求；请求；需求"
+      },
+      {
+        "pos": "动",
+        "definition": "要求；请求；需求"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "command",
+    "phonetic": "[kəˈmɑːnd]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "命令；指挥；掌握"
+      },
+      {
+        "pos": "动",
+        "definition": "命令；指挥；掌握"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "mandate",
+    "phonetic": "[ˈmændeɪt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "授权；任期；委任；命令"
+      },
+      {
+        "pos": "动",
+        "definition": "授权；委任"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "mind",
+    "phonetic": "[maɪnd]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "心思；头脑；思路；智力；意向；情绪"
+      },
+      {
+        "pos": "动",
+        "definition": "介意；专心于；注意；照顾"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "mindset",
+    "phonetic": "[ˈmaɪndset]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "观念模式；思维倾向；心态"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "remind",
+    "phonetic": "[rɪˈmaɪnd]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "提醒；使想起"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "reminder",
+    "phonetic": "[rɪˈmaɪndə(r)]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "提醒人的事物；通知单；提示信"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "wise",
+    "phonetic": "[waɪz]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "充满智慧的；明智的；英明的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "wisdom",
+    "phonetic": "[ˈwɪzdəm]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "智慧；明智；学问"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "ideology",
+    "phonetic": "[ˌaɪdiˈɒlədʒi]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "意识形态；思想体系"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "move",
+    "phonetic": "[muːv]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "移动；搬家"
+      },
+      {
+        "pos": "名",
+        "definition": "行动；移动"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "remove",
+    "phonetic": "[rɪˈmuːv]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "搬迁；去掉；移开；消除"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "shift",
+    "phonetic": "[ʃɪft]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "变换位置；转移；换（挡）；轮班"
+      },
+      {
+        "pos": "名",
+        "definition": "转移；移位；转变；轮班"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "patent",
+    "phonetic": "[ˈpeɪt(ə)nt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "专利；专利权；专利证书"
+      },
+      {
+        "pos": "形",
+        "definition": "有专利的；受专利保护的"
+      },
+      {
+        "pos": "动",
+        "definition": "获得专利"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "patentable",
+    "phonetic": "[ˈpeɪtəntəb(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "可给予专利权的；易取得专利的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "monopoly",
+    "phonetic": "[məˈnɒpəli]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "垄断"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "monopolise",
+    "phonetic": "[məˈnɒpəlaɪz]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "独占；垄断"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "monopolize",
+    "phonetic": "[məˈnɒpəlaɪz]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "独占；垄断"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "outlet",
+    "phonetic": "[ˈaʊtlet]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "出口；发泄途径；经销店；折扣 店"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "risk",
+    "phonetic": "[rɪsk]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "风险"
+      },
+      {
+        "pos": "动",
+        "definition": "冒...的危险"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "risky",
+    "phonetic": "[ˈrɪski]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "危险的；冒风险的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "riskily",
+    "phonetic": "[ˈrɪskɪli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "冒险地"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "adventurism",
+    "phonetic": "[ədˈventʃərɪzəm]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "（外交、政治等方面的）冒险主义"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "adventurous",
+    "phonetic": "[ədˈventʃərəs]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "有冒险精神的；敢于创新的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "threat",
+    "phonetic": "[θret]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "威胁；恐吓；凶兆"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "threaten",
+    "phonetic": "[ˈθret(ə)n]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "威胁；恐吓"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "crisis",
+    "phonetic": "[ˈkraɪsɪs]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "危机；危急关头"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "venture",
+    "phonetic": "[ˈventʃə(r)]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "冒险；投机"
+      },
+      {
+        "pos": "名",
+        "definition": "冒险事业；商业冒险；投机"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "term",
+    "phonetic": "[tɜːm]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "学期；术语；措辞；期限；条款"
+      },
+      {
+        "pos": "动",
+        "definition": "把…称作；把…叫做"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "terminology",
+    "phonetic": "[ˌtɜːmɪˈnɒlədʒi]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "术语；专门名词"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "provision",
+    "phonetic": "[prəˈvɪʒ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "供应；预备；储粮；规定；条款"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "item",
+    "phonetic": "[ˈaɪtəm]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "项目；条款；一则； 一件物品或 商品"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "technology",
+    "phonetic": "[tekˈnɒlədʒi]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "科技；技术"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "tech",
+    "phonetic": "[tek]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "技术学校；技术；技术人员"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "technological",
+    "phonetic": "[ˌteknəˈlɒdʒɪk(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "科技的；工艺的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "biotech",
+    "phonetic": "[ˈbaɪəʊtek]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "生物技术"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "technique",
+    "phonetic": "[tekˈniːk]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "技术；工艺；技巧；技艺"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "technical",
+    "phonetic": "[ˈteknɪk(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "技术的；专业的；工艺的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "technician",
+    "phonetic": "[tekˈnɪʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "技术员；技师"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "craft",
+    "phonetic": "[krɑːft]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "工艺；手艺；诡计；行业；小船；艇；航 空器"
+      },
+      {
+        "pos": "动",
+        "definition": "精心制作"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "deal",
+    "phonetic": "[diːl]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "交易；协议"
+      },
+      {
+        "pos": "动",
+        "definition": "处理；对付；交易"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "dealing",
+    "phonetic": "[ˈdiːlɪŋ]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "行为；交易"
+      },
+      {
+        "pos": "动",
+        "definition": "应付；交易；“deal” 的现在分词"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "dealer",
+    "phonetic": "[ˈdiːlə(r)]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "经销商；商人"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "cope",
+    "phonetic": "[kəʊp]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "应付；处理"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "handle",
+    "phonetic": "[ˈhænd(ə)l]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "处理；操纵"
+      },
+      {
+        "pos": "名",
+        "definition": "柄；把手"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "tackle",
+    "phonetic": "[ˈtæk(ə)l]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "处理，解决；（足球等）阻截"
+      },
+      {
+        "pos": "名",
+        "definition": "用具；阻截"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "address",
+    "phonetic": "[əˈdres]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "地址；演讲"
+      },
+      {
+        "pos": "动",
+        "definition": "向…讲话；提出；解决"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "course",
+    "phonetic": "[kɔːs]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "课程；过程；一道菜"
+      },
+      {
+        "pos": "动",
+        "definition": "快速流动；（思想或感情）涌动"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "discourse",
+    "phonetic": "[ˈdɪskɔːs]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "演讲；论述；交谈；语篇"
+      },
+      {
+        "pos": "动",
+        "definition": "论述"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "curriculum",
+    "phonetic": "[kəˈrɪkjələm]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "课程"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "discipline",
+    "phonetic": "[ˈdɪsəplɪn]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "纪律；训练；惩戒；学科；科目"
+      },
+      {
+        "pos": "动",
+        "definition": "训练；约束自己；惩罚"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "catalog",
+    "phonetic": "[ˈkætəlɒɡ]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "目录"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "catalogue",
+    "phonetic": "[ˈkætəlɒɡ]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "目录"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "board",
+    "phonetic": "[bɔːd]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "板；董事会"
+      },
+      {
+        "pos": "动",
+        "definition": "上船（或火车、飞机等）"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "billboard",
+    "phonetic": "[ˈbɪlbɔːd]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "广告牌；告示牌"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "broad",
+    "phonetic": "[brɔːd]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "宽阔的；广阔的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "broadband",
+    "phonetic": "[ˈbrɔːdbænd]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "宽带；宽频带"
+      },
+      {
+        "pos": "形",
+        "definition": "宽带的；宽频的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "abroad",
+    "phonetic": "[əˈbrɔːd]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "在国外；出国"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "domestic",
+    "phonetic": "[dəˈmestɪk]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "家庭的；国内的；驯养的"
+      },
+      {
+        "pos": "名",
+        "definition": "佣人"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "develop",
+    "phonetic": "[dɪˈveləp]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "发展；形成；制订"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "developing",
+    "phonetic": "[dɪˈveləpɪŋ]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "发展中的"
+      },
+      {
+        "pos": "动",
+        "definition": "发展；发育；“develop” 的现在分词"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "developed",
+    "phonetic": "[dɪˈveləpt]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "发达的；先进的"
+      },
+      {
+        "pos": "动",
+        "definition": "发展；发育；“develop” 的过去式和过去 分词"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "development",
+    "phonetic": "[dɪˈveləpmənt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "发展；开发"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "developmental",
+    "phonetic": "[dɪˌveləpˈment(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "发展的；进化的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "environment",
+    "phonetic": "[ɪnˈvaɪrənmənt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "环境"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "environmental",
+    "phonetic": "[ɪnˌvaɪrənˈment(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "环境的；有关环境的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "environmentally",
+    "phonetic": "[ɪnˌvaɪrənˈmentəli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "与环境有关地；在环境方面地"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "deforestation",
+    "phonetic": "[ˌdiːˌfɒrɪˈsteɪʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "采伐森林；森林开伐"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "ecosystem",
+    "phonetic": "[ˈiːkəʊsɪstəm]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "生态系统"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "extinction",
+    "phonetic": "[ɪkˈstɪŋkʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "灭绝；消亡"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "explain",
+    "phonetic": "[ɪkˈspleɪn]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "解释；说明；阐明"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "explanation",
+    "phonetic": "[ˌekspləˈneɪʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "解释；说明；阐述"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "interpret",
+    "phonetic": "[ɪnˈtɜːprət]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "口译；把…理解为；解释"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "interpretation",
+    "phonetic": "[ɪnˌtɜːprəˈteɪʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "解释；口译"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "illustrate",
+    "phonetic": "[ˈɪləstreɪt]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "（举例）说明；给（书籍、杂志 等）加插图"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "misinterpret",
+    "phonetic": "[ˌmɪsɪnˈtɜːprət]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "误解；误释"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "misinterpretation",
+    "phonetic": "[ˌmɪsɪntɜːprəˈteɪʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "误解；曲解"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "member",
+    "phonetic": "[ˈmembə(r)]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "成员；会员"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "membership",
+    "phonetic": "[ˈmembəʃɪp]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "会员资格；全体会员"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "staff",
+    "phonetic": "[stɑːf]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "职员；全体职工；棍棒；拐杖"
+      },
+      {
+        "pos": "动",
+        "definition": "为…配备职员"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "faculty",
+    "phonetic": "[ˈfæk(ə)lti]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "才能；能力；全体教员；院系"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "comment",
+    "phonetic": "[ˈkɒment]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "评论；意见；批评"
+      },
+      {
+        "pos": "动",
+        "definition": "评论；表达意见"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "opinion",
+    "phonetic": "[əˈpɪnjən]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "意见；看法；观点"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "remark",
+    "phonetic": "[rɪˈmɑːk]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "评论；谈论；注意到"
+      },
+      {
+        "pos": "名",
+        "definition": "评述；言论；注意"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "attitude",
+    "phonetic": "[ˈætɪtjuːd]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "态度；看法；姿态"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "control",
+    "phonetic": "[kənˈtrəʊl]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "控制；操纵"
+      },
+      {
+        "pos": "名",
+        "definition": "控制；管制"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "manipulate",
+    "phonetic": "[məˈnɪpjuleɪt]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "操纵；使用"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "manipulation",
+    "phonetic": "[məˌnɪpjuˈleɪʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "操纵；操作；处理"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "major",
+    "phonetic": "[ˈmeɪdʒə(r)]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "主要的；较多的；成年的；大调的"
+      },
+      {
+        "pos": "名",
+        "definition": "主修课；成年人；少校；大调"
+      },
+      {
+        "pos": "动",
+        "definition": "主修"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "majority",
+    "phonetic": "[məˈdʒɒrəti]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "大多数；大部分"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "chief",
+    "phonetic": "[tʃiːf]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "领袖；首领"
+      },
+      {
+        "pos": "形",
+        "definition": "主要的；首要的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "main",
+    "phonetic": "[meɪn]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "主要的；最重要的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "principal",
+    "phonetic": "[ˈprɪnsəp(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "最重要的；主要的；本金的"
+      },
+      {
+        "pos": "名",
+        "definition": "负责人；首长；校长；本金"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "mostly",
+    "phonetic": "[ˈməʊstli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "主要地；大部分；通常"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "largely",
+    "phonetic": "[ˈlɑːdʒli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "大部分地；主要地；大量地"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "minor",
+    "phonetic": "[ˈmaɪnə(r)]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "小的；次要的；轻微的；小调的"
+      },
+      {
+        "pos": "名",
+        "definition": "未成年人"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "minority",
+    "phonetic": "[maɪˈnɒrəti]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "少数；少数民族；未成年人"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "online",
+    "phonetic": "[ˌɒnˈlaɪn]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "联机的；在线的"
+      },
+      {
+        "pos": "副",
+        "definition": "在网上地；在线地"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "network",
+    "phonetic": "[ˈnetwɜːk]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "网络；网路；网状物"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "hack",
+    "phonetic": "[hæk]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "劈砍；侵入（计算机等）"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "download",
+    "phonetic": "[ˈdaʊnləʊd]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "下载"
+      },
+      {
+        "pos": "动",
+        "definition": "下载"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "upload",
+    "phonetic": "[ˌʌpˈləʊd]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "上传；上载"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "encode",
+    "phonetic": "[ɪnˈkəʊd]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "给…加密；将…译成密码；编码"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "code",
+    "phonetic": "[kəʊd]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "代码；密码；编码；行为准则；法典；法 规"
+      },
+      {
+        "pos": "动",
+        "definition": "编码"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "sense",
+    "phonetic": "[sens]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "知觉；感知；理解力；意义"
+      },
+      {
+        "pos": "动",
+        "definition": "意识到；感觉到；觉察出"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "nonsense",
+    "phonetic": "[ˈnɒns(ə)ns]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "无意义的话；胡说"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "sensible",
+    "phonetic": "[ˈsensəb(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "明智的；有判断力的；恰当的； 合理的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "sensitive",
+    "phonetic": "[ˈsensətɪv]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "敏感的；感情脆弱的；体贴的； 善解人意的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "sensitivity",
+    "phonetic": "[ˌsensəˈtɪvəti]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "敏感性；灵敏度；感受性"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "insensitive",
+    "phonetic": "[ɪnˈsensətɪv]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "漠不关心的；懵然不知的；感觉 迟钝的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "sentiment",
+    "phonetic": "[ˈsentɪmənt]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "情绪；看法；感情"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "emotion",
+    "phonetic": "[ɪˈməʊʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "情绪；情感"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "emotional",
+    "phonetic": "[ɪˈməʊʃən(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "感情的；情绪的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "emotionally",
+    "phonetic": "[ɪˈməʊʃənəli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "感情上；情绪上"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "community",
+    "phonetic": "[kəˈmjuːnəti]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "社区；团体；群落"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "communal",
+    "phonetic": "[kəˈmjuːn(ə)l]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "社区的；群体的；公有的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "communicate",
+    "phonetic": "[kəˈmjuːnɪkeɪt]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "沟通；交流"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "communication",
+    "phonetic": "[kəˌmjuːnɪˈkeɪʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "通信；交流"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "corporate",
+    "phonetic": "[ˈkɔːpərət]",
+    "meanings": [
+      {
+        "pos": "形",
+        "definition": "团体的；公司的"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "corporation",
+    "phonetic": "[ˌkɔːpəˈreɪʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "公司；企业"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "define",
+    "phonetic": "[dɪˈfaɪn]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "下定义；定范围"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "definition",
+    "phonetic": "[ˌdefɪˈnɪʃ(ə)n]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "定义；清晰度"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "redefine",
+    "phonetic": "[ˌriːdɪˈfaɪn]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "重新定义"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "definitely",
+    "phonetic": "[ˈdefɪnətli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "明确地；肯定地"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "indefinitely",
+    "phonetic": "[ɪnˈdefɪnətli]",
+    "meanings": [
+      {
+        "pos": "副",
+        "definition": "无限期地；不确定地"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "effort",
+    "phonetic": "[ˈefət]",
+    "meanings": [
+      {
+        "pos": "名",
+        "definition": "努力；尽力"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "endeavor",
+    "phonetic": "[ɪnˈdevə(r)]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "尽力；奋力"
+      },
+      {
+        "pos": "名",
+        "definition": "尽力；尝试"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  },
+  {
+    "word": "endeavour",
+    "phonetic": "[ɪnˈdevə(r)]",
+    "meanings": [
+      {
+        "pos": "动",
+        "definition": "努力；尽力"
+      },
+      {
+        "pos": "名",
+        "definition": "尝试；努力"
+      }
+    ],
+    "examples": [],
+    "etymology": ""
+  }
+]
