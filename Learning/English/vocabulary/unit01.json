@@ -153,7 +153,7 @@
       }
     ],
     "examples": [],
-    "etymology": ""
+    "etymology": "Etymology tree Proto-Indo-European *wekʷ- der. Proto-Indo-European *wokʷ- der. Latin vocō Proto-Indo-European *-tis Proto-Indo-European *-Hō Proto-Indo-European *-tiHō Proto-Italic *-tiō Latin -tiō Latin vocātiōnem bor. Old French vocation bor. Middle English vocacioun English vocation Proto-Indo-Eu"
   },
   {
     "word": "strike",
@@ -200,8 +200,21 @@
         "definition": "使用；利用；“use” 的过去式和过去分词"
       }
     ],
-    "examples": [],
-    "etymology": ""
+    "examples": [
+      {
+        "en": "soldiers who are used to hardships and danger",
+        "zh": ""
+      },
+      {
+        "en": "I used to get things done.",
+        "zh": ""
+      },
+      {
+        "en": "to use an animal cruelly",
+        "zh": ""
+      }
+    ],
+    "etymology": "From Middle English used , equivalent to use +‎ -ed ."
   },
   {
     "word": "useful",
@@ -284,8 +297,21 @@
         "definition": "交换；兑换"
       }
     ],
-    "examples": [],
-    "etymology": ""
+    "examples": [
+      {
+        "en": "All in all, it was an even exchange.",
+        "zh": ""
+      },
+      {
+        "en": "The stock exchange is open for trading.",
+        "zh": ""
+      },
+      {
+        "en": "NPA-NXX-1234 is standard format, where NPA is the area code and NXX is the exchange.",
+        "zh": ""
+      }
+    ],
+    "etymology": "1 From Middle English eschaunge , borrowed from Anglo-Norman eschaunge , from Old French eschange (whence modern French échange ), from the verb eschanger , from Vulgar Latin *excambiāre (from Latin ex with Late Latin cambiō ). Spelling later changed on the basis of ex- , with pronunciation followin"
   },
   {
     "word": "alter",
@@ -382,7 +408,7 @@
       }
     ],
     "examples": [],
-    "etymology": ""
+    "etymology": "Etymology tree Proto-Italic *wre- Latin re- der. Old French re- bor. Middle English re- English re- Proto-Indo-European *steh₂- Proto-Italic *status Latin status lbor. Old French estat bor. Middle English stat English state English restate From re- + state ."
   },
   {
     "word": "overstate",
@@ -405,8 +431,13 @@
         "definition": "庄园；个人全部财产（遗产）；地 产"
       }
     ],
-    "examples": [],
-    "etymology": ""
+    "examples": [
+      {
+        "en": "an estate diamond; estate jewelry",
+        "zh": ""
+      }
+    ],
+    "etymology": "From Middle English estat , from Anglo-Norman estat and Old French estat (French: état ), from Latin status . Doublet of state and status ."
   },
   {
     "word": "status",
@@ -457,8 +488,17 @@
         "definition": "管理；执行；实施；给予（药物 或治疗）"
       }
     ],
-    "examples": [],
-    "etymology": ""
+    "examples": [
+      {
+        "en": "We administered the medicine to our dog by mixing it in his food.",
+        "zh": ""
+      },
+      {
+        "en": "administering to the sick",
+        "zh": ""
+      }
+    ],
+    "etymology": "From Middle English administren , from Old French aminister , from Latin administrare ( “ to manage, execute ” ) , from ad ( “ to ” ) + ministrare ( “ to attend, serve ” ) , from minister ( “ servant ” ) ; see minister ."
   },
   {
     "word": "administration",
@@ -533,8 +573,21 @@
         "definition": "外卖餐馆；外卖食物"
       }
     ],
-    "examples": [],
-    "etymology": ""
+    "examples": [
+      {
+        "en": "If you're hungry, there's a takeaway just around the corner.",
+        "zh": ""
+      },
+      {
+        "en": "I fancy an Indian takeaway tonight.",
+        "zh": ""
+      },
+      {
+        "en": "I couldn't be bothered cooking, so I bought a takeaway curry.",
+        "zh": ""
+      }
+    ],
+    "etymology": "Etymology tree English take away deverb. English takeaway Deverbal from take away ."
   },
   {
     "word": "mistake",
@@ -549,8 +602,13 @@
         "definition": "弄错；误解"
       }
     ],
-    "examples": [],
-    "etymology": ""
+    "examples": [
+      {
+        "en": "Don't mistake my kindness for weakness.",
+        "zh": ""
+      }
+    ],
+    "etymology": "From Middle English mistaken , from Old Norse mistaka ( “ to take in error, to miscarry ” ) ; equivalent to mis- +‎ take . Cognate with Icelandic mistaka ( “ to mistake ” ) , Swedish missta ( “ to mistake ” ) (before apocope misstaga ). The noun, which replaced earlier mistaking , is derived from th"
   },
   {
     "word": "blunder",
@@ -643,7 +701,7 @@
       }
     ],
     "examples": [],
-    "etymology": ""
+    "etymology": "From a- +‎ social ; in the sense of “antisocial” and as a noun, appears to be a calque of German asozial / Asozialer ."
   },
   {
     "word": "sociologist",
@@ -655,7 +713,7 @@
       }
     ],
     "examples": [],
-    "etymology": ""
+    "etymology": "Etymology tree English sociology Proto-Indo-European *-id- Proto-Indo-European *-yéti Proto-Indo-European *-idyéti Proto-Hellenic *-íďďō Ancient Greek -ῐ́ζω ( -ĭ́zō ) Proto-Hellenic *-tās Ancient Greek -τής ( -tḗs ) Ancient Greek -ῐστής ( -ĭstḗs ) bor. Latin -ista der. Old French -iste bor. Middle E"
   },
   {
     "word": "society",
@@ -730,7 +788,20 @@
         "definition": "陪伴；伴随；为…伴奏"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "Geoffrey accompanied the group on their pilgrimage.",
+        "zh": ""
+      },
+      {
+        "en": "I will accompany her on the oboe.",
+        "zh": ""
+      },
+      {
+        "en": "Thunder almost always accompanies lightning during a rain storm.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -807,7 +878,7 @@
       }
     ],
     "examples": [],
-    "etymology": ""
+    "etymology": "From Middle English owen , from Old English āgan , from Proto-West Germanic *aigan ( “ to own ” ) , from Proto-Germanic *aiganą , from Proto-Indo-European *h₂eh₂óyḱe ( “ to possess, own ” ) , reduplicated stative of *h₂eyḱ- ( “ to own ” ) . See also own , ought . Cognate with Sanskrit ईष्टे ( īṣṭe ,"
   },
   {
     "word": "mean",
@@ -878,8 +949,13 @@
         "definition": "意图；打算"
       }
     ],
-    "examples": [],
-    "etymology": ""
+    "examples": [
+      {
+        "en": "It’s easy to promise anything when you have no intention of fulfilling any of it.",
+        "zh": ""
+      }
+    ],
+    "etymology": "From Middle English entencioun , intention , from Old French entencion , from Latin intentiō, intentiōnem . Compare intent . Equivalent to intent +‎ -ion ."
   },
   {
     "word": "intentionally",
@@ -954,7 +1030,12 @@
         "definition": "选择；决定"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "He opted not to go.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -991,7 +1072,7 @@
       }
     ],
     "examples": [],
-    "etymology": ""
+    "etymology": "From business +‎ -man . Displaced earlier merchant , ultimately from Latin mercāns ( “ merchant, buyer ” ) ."
   },
   {
     "word": "commerce",
@@ -1043,7 +1124,7 @@
       }
     ],
     "examples": [],
-    "etymology": ""
+    "etymology": "Borrowed from French entrepreneur ( “ one who undertakes or manages ” ) , [ 1 ] from Middle French entrepreneur , from entreprendre ( “ to undertake ” ) +‎ -eur . ^ Douglas Harper ( 2001–2026 ), “ entrepreneur (n.) ”, in Online Etymology Dictionary ."
   },
   {
     "word": "trade",
@@ -1058,8 +1139,21 @@
         "definition": "贸易；交易"
       }
     ],
-    "examples": [],
-    "etymology": ""
+    "examples": [
+      {
+        "en": "I did no trades with them once the rumors started.",
+        "zh": ""
+      },
+      {
+        "en": "The skilled trades were the first to organize modern labor unions.",
+        "zh": ""
+      },
+      {
+        "en": "It is not a retail showroom. It is only for the trade.",
+        "zh": ""
+      }
+    ],
+    "etymology": "From Middle English trade ( “ path, course of conduct ” ) , introduced into English by Hanseatic merchants, from Middle Low German trade ( “ track, course ” ) , from Old Saxon trada ( “ spoor, track ” ) , from Proto-West Germanic *tradu , from Proto-Germanic *tradō ( “ track, way ” ) , and cognate w"
   },
   {
     "word": "transaction",
@@ -1083,7 +1177,7 @@
       }
     ],
     "examples": [],
-    "etymology": ""
+    "etymology": "1 From Middle English sale , from Old English sala ( “ act of selling, sale ” ) , from Old Norse sala ( “ sale ” ) , from Proto-Germanic *salō ( “ delivery ” ) , from Proto-Indo-European *selh₁- ( “ to grab ” ) . Noun sale ( countable and uncountable , plural sales ) An exchange of goods or services"
   },
   {
     "word": "wholesale",
@@ -1118,7 +1212,16 @@
         "definition": "商品；货物；日用品"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "The price of crude oil is determined in continuous trading between professional players in World's many commodities exchanges.",
+        "zh": ""
+      },
+      {
+        "en": "Although they were once in the forefront of consumer electronics, the calculators have become a mere commodity.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -1134,8 +1237,17 @@
         "definition": "讨价还价"
       }
     ],
-    "examples": [],
-    "etymology": ""
+    "examples": [
+      {
+        "en": "At that price, it's not just a bargain, it's a steal.",
+        "zh": ""
+      },
+      {
+        "en": "They had to bargain for a few minutes to get a decent price for the rug.",
+        "zh": ""
+      }
+    ],
+    "etymology": "From Middle English bargaynen ( “ to bargain, make a pledge for sale ” ) , from Old French bargaigner ( “ to bargain ” ) , from Frankish *borganjan ( “ to borrow, lend ” ) , from Proto-Germanic *burgijaną ( “ to borrow, lend ” ) , from Proto-Indo-European *bʰergʰ- ( “ to protect, secure ” ) . Akin t"
   },
   {
     "word": "section",
@@ -1158,8 +1270,13 @@
         "definition": "部门；行业；扇形"
       }
     ],
-    "examples": [],
-    "etymology": ""
+    "examples": [
+      {
+        "en": "public sector;  private sector",
+        "zh": ""
+      }
+    ],
+    "etymology": "Etymology tree Latin sector bor. English sector Borrowed from Latin sector . Etymology link to sector is ambiguous (2 {{etymon}} templates for Latin). Specify which one with `<id:identifier>` after the term. Options: \"cutter\" and \"follow\"."
   },
   {
     "word": "segment",
@@ -1246,8 +1363,13 @@
         "definition": "公众；公共场所"
       }
     ],
-    "examples": [],
-    "etymology": ""
+    "examples": [
+      {
+        "en": "Members of the public may not proceed beyond this point.",
+        "zh": ""
+      }
+    ],
+    "etymology": "1 The adjective and noun are derived from Late Middle English publik , publike ( “ ( adjective ) generally observable, public; relating to the general public or public affairs; ( noun ) a generally observable place or situation ” ) , [ 1 ] from Anglo-Norman public , publik , publique , Middle French"
   },
   {
     "word": "publication",
@@ -1283,7 +1405,7 @@
       }
     ],
     "examples": [],
-    "etymology": ""
+    "etymology": "Etymology tree English publish Proto-Indo-European *-yós der. Proto-Italic *-āzijos Latin -ārius nom. Latin -ārius bor. Proto-Germanic *-ārijaz Proto-West Germanic *-ārī Old English -ere Middle English -ere English -er English publisher From publish + -er ."
   },
   {
     "word": "question",
@@ -1326,7 +1448,16 @@
         "definition": "询问；怀疑"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "The teacher answered the student’s query concerning biosynthesis.",
+        "zh": ""
+      },
+      {
+        "en": "The database admin switched on query logging for debugging purposes.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -1362,7 +1493,12 @@
         "definition": "调查；询问"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "Scientific inquiry",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -1390,7 +1526,20 @@
         "definition": "发行；发表；流出；在…上挑起争论"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "The issue of the directive from the treasury prompted the central bank's most recent issue of currency.",
+        "zh": ""
+      },
+      {
+        "en": "Please stand by. We are having technical issues.",
+        "zh": ""
+      },
+      {
+        "en": "The rents issuing from the land permitted him to live as a man of independent means.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -1474,8 +1623,17 @@
         "definition": "调查；研究"
       }
     ],
-    "examples": [],
-    "etymology": ""
+    "examples": [
+      {
+        "en": "to investigate the causes of natural phenomena",
+        "zh": ""
+      },
+      {
+        "en": "to investigate an unsolved murder",
+        "zh": ""
+      }
+    ],
+    "etymology": "Recorded since circa 1510, a back-formation from investigation on the basis of -ate ( verb-forming suffix ) , from Latin investīgātiō ( “ a searching into ” ) , from investīgātus , the perfect passive participle of investīgō , equivalent to in- +‎ vestigate . Displaced native Old English undersēċan "
   },
   {
     "word": "investigation",
@@ -1551,7 +1709,7 @@
       }
     ],
     "examples": [],
-    "etymology": ""
+    "etymology": "Etymology tree English anthropology Proto-Indo-European *-id- Proto-Indo-European *-yéti Proto-Indo-European *-idyéti Proto-Hellenic *-íďďō Ancient Greek -ῐ́ζω ( -ĭ́zō ) Proto-Hellenic *-tās Ancient Greek -τής ( -tḗs ) Ancient Greek -ῐστής ( -ĭstḗs ) bor. Latin -ista der. Old French -iste bor. Middl"
   },
   {
     "word": "anthropology",
@@ -1698,8 +1856,17 @@
         "definition": "增加；增多"
       }
     ],
-    "examples": [],
-    "etymology": ""
+    "examples": [
+      {
+        "en": "His rage only increased when I told him of the lost money.",
+        "zh": ""
+      },
+      {
+        "en": "The Moon increases.",
+        "zh": ""
+      }
+    ],
+    "etymology": "From Middle English encresen , borrowed from Anglo-Norman encreistre , from Latin increscere ( “ to increase ” ) , from in ( “ in, on ” ) + crescō ( “ grow ” ) . The noun is from Middle English encres , from the verb."
   },
   {
     "word": "increasingly",
@@ -1847,7 +2014,7 @@
       }
     ],
     "examples": [],
-    "etymology": ""
+    "etymology": "Formed under the influence of both diminue (from Old French diminuer , from Latin dīminuo ) and minish ."
   },
   {
     "word": "pay",
@@ -1887,7 +2054,7 @@
       }
     ],
     "examples": [],
-    "etymology": ""
+    "etymology": "Etymology tree English pay out deverb. English payout Deverbal from pay out ."
   },
   {
     "word": "overpay",
@@ -1926,8 +2093,21 @@
         "definition": "健康；健康状况"
       }
     ],
-    "examples": [],
-    "etymology": ""
+    "examples": [
+      {
+        "en": "Her mental health is really affected by stressful environments.",
+        "zh": ""
+      },
+      {
+        "en": "The directors are concerned about the financial health of the project.",
+        "zh": ""
+      },
+      {
+        "en": "The enemies on this level have a lot of health.",
+        "zh": ""
+      }
+    ],
+    "etymology": "1 Inherited from Middle English helthe , from Old English hǣlþ , from Proto-West Germanic *hailiþu , from Proto-Germanic *hailiþō , from Proto-Germanic *hailaz ( “ whole , hale ” ) . Cognate with Old High German heilida . Analyzable as whole , hale , or heal +‎ -th ( abstract nominal suffix ) . More"
   },
   {
     "word": "unhealthy",
@@ -1967,7 +2147,7 @@
       }
     ],
     "examples": [],
-    "etymology": ""
+    "etymology": "From fit +‎ -ness . First attested in the 16th century, with the physical sense from 1935."
   },
   {
     "word": "wellbeing",
@@ -2014,8 +2194,13 @@
         "definition": "诉讼"
       }
     ],
-    "examples": [],
-    "etymology": ""
+    "examples": [
+      {
+        "en": "The lawyer advised his client against filing a lawsuit as it would take a lot of time and money to resolve.",
+        "zh": ""
+      }
+    ],
+    "etymology": "From law +‎ suit ."
   },
   {
     "word": "legal",
@@ -2026,8 +2211,21 @@
         "definition": "法律的；合法的"
       }
     ],
-    "examples": [],
-    "etymology": ""
+    "examples": [
+      {
+        "en": "Legal wants this in writing.",
+        "zh": ""
+      },
+      {
+        "en": "legal profession",
+        "zh": ""
+      },
+      {
+        "en": "legal precedent",
+        "zh": ""
+      }
+    ],
+    "etymology": "Learned borrowing from Latin lēgālis ( “ legal ” ) , from lēx ( “ law ” ) . Doublet of loyal and leal ."
   },
   {
     "word": "illegal",
