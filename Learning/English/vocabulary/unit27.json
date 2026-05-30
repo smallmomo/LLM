@@ -736,7 +736,16 @@
         "definition": "理论；学说"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "Knot theory classifies the mappings of a circle into 3-space.",
+        "zh": ""
+      },
+      {
+        "en": "A theory is consistent if it has a model.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {

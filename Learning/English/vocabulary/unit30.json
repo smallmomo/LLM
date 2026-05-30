@@ -1389,7 +1389,7 @@
       }
     ],
     "examples": [],
-    "etymology": ""
+    "etymology": "Inherited from Middle English infaunt , borrowed from Latin īnfantem , accusative masculine singular of īnfāns , nominal use of the adjective meaning 'not able to speak', from īn- ( “ not ” ) + fāns , present participle of for ( “ to speak ” ) . The verb is from Anglo-Norman enfanter , from the same"
   },
   {
     "word": "inside",
@@ -1453,7 +1453,7 @@
       }
     ],
     "examples": [],
-    "etymology": ""
+    "etymology": "From Middle English leyser , from Anglo-Norman leisir , variant of Old French loisir ( “ to enjoy oneself ” ) (Modern French loisir survives as a noun), substantive use of a verb, from Latin licēre ( “ be permitted ” ) . Displaced native Old English ǣmetta ."
   },
   {
     "word": "meal",
@@ -1700,7 +1700,20 @@
         "definition": "帮助；援助"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "He came to my aid when I was foundering.",
+        "zh": ""
+      },
+      {
+        "en": "Slimming aids include dietary supplements and appetite suppressants.",
+        "zh": ""
+      },
+      {
+        "en": "The incompetent general's brilliant aid often made priceless suggestions.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {

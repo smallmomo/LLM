@@ -8,7 +8,16 @@
         "definition": "任务；工作；作业"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "The user killed the frozen task.",
+        "zh": ""
+      },
+      {
+        "en": "On my first day in the office, I was tasked with sorting a pile of invoices.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -104,7 +113,20 @@
         "definition": "快乐的；高兴的"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "Music makes me feel happy.",
+        "zh": ""
+      },
+      {
+        "en": "Are you happy to pay me back by the end of the week?",
+        "zh": ""
+      },
+      {
+        "en": "a happy coincidence",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -140,7 +162,12 @@
         "definition": "几乎；将近；差不多"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "He left a nearly full beer on the bar.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -396,7 +423,20 @@
         "definition": "体育运动"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "Joe was banned from getting legal help. He seemed to view lawsuits as a sport.",
+        "zh": ""
+      },
+      {
+        "en": "Jen may have won, but she was sure a poor sport; she laughed at the loser.",
+        "zh": ""
+      },
+      {
+        "en": "You're such a sport! You never get upset when we tease you.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -420,7 +460,20 @@
         "definition": "电视机；“television” 的缩写"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "It’s a good thing that television doesn’t transmit smell.",
+        "zh": ""
+      },
+      {
+        "en": "I have an old television in the study.",
+        "zh": ""
+      },
+      {
+        "en": "fifty-seven channels and nothing on television",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -500,7 +553,12 @@
         "definition": "十亿"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "There were billions of people at the concert.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -516,7 +574,20 @@
         "definition": "另外；其他"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "The instructor is busy. Can anyone else help me?",
+        "zh": ""
+      },
+      {
+        "en": "How else (=in what other way) can it be done?",
+        "zh": ""
+      },
+      {
+        "en": "Then the Wronskian of f and g must be nonzero, else they could not be linearly independent.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -528,7 +599,20 @@
         "definition": "听；听见"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "I was deaf, and now I can hear.",
+        "zh": ""
+      },
+      {
+        "en": "I heard a sound from outside the window.",
+        "zh": ""
+      },
+      {
+        "en": "Eventually the king chose to hear her entreaties.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -712,7 +796,20 @@
         "definition": "加；增加；补充说"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "When the player has fought the boss for one minute, two adds will arrive from the back and must be dealt with.",
+        "zh": ""
+      },
+      {
+        "en": "to add numbers",
+        "zh": ""
+      },
+      {
+        "en": "to add a column of numbers",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -812,7 +909,20 @@
         "definition": "获得；赚得"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "You can have the s'mores: you earned them, clearing the walkway of snow so well.",
+        "zh": ""
+      },
+      {
+        "en": "He earns seven million dollars a year as CEO.  My bank account is only earning one percent interest.",
+        "zh": ""
+      },
+      {
+        "en": "Now that you are earning, you can start paying me rent.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -868,7 +978,20 @@
         "definition": "连接；联系"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "Click the hyperlink to go to the next page.",
+        "zh": ""
+      },
+      {
+        "en": "Copy the hyperlink and paste it into an email.",
+        "zh": ""
+      },
+      {
+        "en": "The mayor’s assistant serves as the link to the media.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -1036,8 +1159,21 @@
         "definition": "女性的；雌性的"
       }
     ],
-    "examples": [],
-    "etymology": ""
+    "examples": [
+      {
+        "en": "female authors, the leading male and female artists, a female bird cooing at a male, intersex female patients, a trans female vlogger",
+        "zh": ""
+      },
+      {
+        "en": "stereotypically female pastimes, an insect with typically female coloration",
+        "zh": ""
+      },
+      {
+        "en": "the female chromosome;   estrogen, the primary female sex hormone, is produced by both females and males",
+        "zh": ""
+      }
+    ],
+    "etymology": "Etymology tree Proto-Indo-European *dʰeh₁(y)- der. Proto-Indo-European *dʰeh₁-m̥h₁n-éh₂ Proto-Italic *θēmanā Proto-Italic *fēmanā Latin fēmina Proto-Indo-European *-lós Proto-Indo-European *-elós Proto-Italic *-elos Latin -lus Latin fēmella Old French femele bor. Middle English femele Middle English"
   },
   {
     "word": "fire",
@@ -1052,7 +1188,20 @@
         "definition": "射击；开火；解雇；激发"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "We sat about the fire singing songs and telling tales.",
+        "zh": ""
+      },
+      {
+        "en": "During hot and dry summers many fires in forests are caused by regardlessly discarded cigarette butts.",
+        "zh": ""
+      },
+      {
+        "en": "The fire was laid and needed to be lit.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -1232,7 +1381,20 @@
         "definition": "严肃的；严重的；庄重的；认真 的"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "It was a surprise to see the captain, who had always seemed so serious, laugh so heartily.",
+        "zh": ""
+      },
+      {
+        "en": "This is a serious problem. We'll need our best experts.",
+        "zh": ""
+      },
+      {
+        "en": "After all these years, we're finally getting serious attention.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -1268,7 +1430,20 @@
         "definition": "教；教导"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "‘The bliss is there’, mumbled the old man and taught to Heaven.",
+        "zh": ""
+      },
+      {
+        "en": "Can you teach me to sew?  Can you teach sewing to me?",
+        "zh": ""
+      },
+      {
+        "en": "She used to teach at university.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -1284,7 +1459,20 @@
         "definition": "用工具加工"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "Hand me that tool, would you?   I don't have the right tools to start fiddling around with the engine.",
+        "zh": ""
+      },
+      {
+        "en": "These are the tools of the trade.",
+        "zh": ""
+      },
+      {
+        "en": "The software engineer had been developing lots of EDA tools.   a tool for recovering deleted files from a disk",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -1396,7 +1584,20 @@
         "definition": "每；每一"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "$2.50 per dozen",
+        "zh": ""
+      },
+      {
+        "en": "100 centimeters per meter",
+        "zh": ""
+      },
+      {
+        "en": "Introduce the endoscope per nasum.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -1408,7 +1609,12 @@
         "definition": "道路；公路"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "We travelled to the seaside by road.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -1424,7 +1630,20 @@
         "definition": "旅游；旅行"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "space travel",
+        "zh": ""
+      },
+      {
+        "en": "I’m off on my travels around France again.",
+        "zh": ""
+      },
+      {
+        "en": "My drill press has a travel of only 1.5 inches.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -1480,8 +1699,13 @@
         "definition": "动物园"
       }
     ],
-    "examples": [],
-    "etymology": ""
+    "examples": [
+      {
+        "en": "The shopping center was a zoo the week before Christmas.",
+        "zh": ""
+      }
+    ],
+    "etymology": "Abbreviation of English Z ap o tec , Asunci ó n or Spanish z ap o teco , Asunci ó n ."
   },
   {
     "word": "story",
@@ -1652,7 +1876,20 @@
         "definition": "运用；使用；锻炼；使担忧"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "The teacher told us that the next exercise is to write an essay.",
+        "zh": ""
+      },
+      {
+        "en": "I do crosswords for mental exercise.",
+        "zh": ""
+      },
+      {
+        "en": "The law guarantees us the free exercise of our rights.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -1804,7 +2041,20 @@
         "definition": "流动"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "The notion of flow is basic to the study of ordinary differential equations.",
+        "zh": ""
+      },
+      {
+        "en": "The room was small, but it had good symmetry and flow.",
+        "zh": ""
+      },
+      {
+        "en": "Other devices measure water flow in streams fed by melted ice.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -1840,7 +2090,20 @@
         "definition": "他自己"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "He injured himself.",
+        "zh": ""
+      },
+      {
+        "en": "He was injured himself.",
+        "zh": ""
+      },
+      {
+        "en": "Has himself come down to breakfast yet?",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {

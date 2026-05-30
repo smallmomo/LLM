@@ -37,7 +37,7 @@
       }
     ],
     "examples": [],
-    "etymology": ""
+    "etymology": "From Latin lēgislātor ."
   },
   {
     "word": "legislature",
@@ -148,8 +148,13 @@
         "definition": "展览；展出"
       }
     ],
-    "examples": [],
-    "etymology": ""
+    "examples": [
+      {
+        "en": "There was an art exhibition on in the town hall.",
+        "zh": ""
+      }
+    ],
+    "etymology": "From Old French exhibicion . Equivalent to exhibit +‎ -ion ."
   },
   {
     "word": "manifest",
@@ -204,8 +209,21 @@
         "definition": "建议；提议"
       }
     ],
-    "examples": [],
-    "etymology": ""
+    "examples": [
+      {
+        "en": "I have a small suggestion for fixing this: try lifting the left side up a bit.",
+        "zh": ""
+      },
+      {
+        "en": "Suggestion often works better than explicit demand.",
+        "zh": ""
+      },
+      {
+        "en": "He's somehow picked up the suggestion that I like peanuts.",
+        "zh": ""
+      }
+    ],
+    "etymology": "From Middle English suggestion , from Anglo-Norman suggestioun , sugestiun , from Latin suggestiō , from suggerō ( “ suggest ” , verb ) , from Latin sub- ( “ from below, up ” ) + gerō ( “ to bring ” ) . Equivalent to suggest +‎ -ion . Related to English up- , cast ."
   },
   {
     "word": "indicate",
@@ -229,7 +247,7 @@
       }
     ],
     "examples": [],
-    "etymology": ""
+    "etymology": "From Late Latin indicātor ( “ one who points out ” ) , from Latin indicō ( “ point out ” ) . By surface analysis , indicate +‎ -or ; see indicate ."
   },
   {
     "word": "science",
@@ -628,7 +646,20 @@
         "definition": "决心；决定；测定；确定"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "The news of his father's illness determined him to depart immediately.",
+        "zh": ""
+      },
+      {
+        "en": "The court has determined the cause.",
+        "zh": ""
+      },
+      {
+        "en": "I determined to go home at once.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -640,7 +671,20 @@
         "definition": "决心；坚决；决议；解决；分辨 率"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "His stalwart resolution is perhaps admirable, perhaps foolish.",
+        "zh": ""
+      },
+      {
+        "en": "By February, most New Year's resolutions are forgotten.   My resolution is to cut back on the fast food this year.",
+        "zh": ""
+      },
+      {
+        "en": "Printing at higher resolution will cause a reduction in performance.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -700,7 +744,20 @@
         "definition": "抗议"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "They lodged a protest with the authorities.",
+        "zh": ""
+      },
+      {
+        "en": "We held a protest in front of City Hall.",
+        "zh": ""
+      },
+      {
+        "en": "How dare you, I protest!",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -713,7 +770,7 @@
       }
     ],
     "examples": [],
-    "etymology": ""
+    "etymology": "From Old French verifier (French: vérifier ), from Medieval Latin vērificāre ( “ make true ” ) , from Latin vērus ( “ true ” ) + faciō ( “ do, make ” ) ; see -fy ."
   },
   {
     "word": "prove",
@@ -964,8 +1021,13 @@
         "definition": "区分；使有别于；辨认；使出众"
       }
     ],
-    "examples": [],
-    "etymology": ""
+    "examples": [
+      {
+        "en": "The soldier distinguished himself in combat and received a medal.",
+        "zh": ""
+      }
+    ],
+    "etymology": "From Middle English distingwen , from Old French distinguer , from Latin distinguere ( “ to separate, divide, distinguish, set off, adorn, literally mark off ” ) , from di- , dis- ( “ apart ” ) + stinguere , related to English stink . Compare extinguish ."
   },
   {
     "word": "power",
@@ -980,7 +1042,16 @@
         "definition": "给…提供能量；供以动力"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "the mechanical powers",
+        "zh": ""
+      },
+      {
+        "en": "This CD player is powered by batteries.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -1004,7 +1075,20 @@
         "definition": "力量；实力；强度；优势"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "It requires great strength to lift heavy objects.",
+        "zh": ""
+      },
+      {
+        "en": "He had the strength of ten men.",
+        "zh": ""
+      },
+      {
+        "en": "We all have our own strengths and weaknesses.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -1053,7 +1137,7 @@
       }
     ],
     "examples": [],
-    "etymology": ""
+    "etymology": "Etymology tree Proto-Indo-European *dewh₂- der. Proto-Hellenic *dunamai Ancient Greek δῠ́νᾰμαι ( dŭ́nămai ) Ancient Greek δύναμις ( dúnamis ) Ancient Greek -ικός ( -ikós ) Ancient Greek δυναμικός ( dunamikós ) lbor. French dynamique der. English dynamic Proto-Indo-European *-kos Proto-Indo-European "
   },
   {
     "word": "culture",
@@ -1380,7 +1464,16 @@
         "definition": "判断；评判；审判"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "At a boxing match, the decision of the judges is final.",
+        "zh": ""
+      },
+      {
+        "en": "She is a good judge of wine.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -1448,7 +1541,20 @@
         "definition": "恳求；辩护；答辩；以…为理由"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "The defendant has decided to plead not guilty.",
+        "zh": ""
+      },
+      {
+        "en": "He pleaded with me not to leave the house.",
+        "zh": ""
+      },
+      {
+        "en": "Not wishing to attend the banquet, I pleaded illness.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -1576,7 +1682,12 @@
         "definition": "替换；替代"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "The replacement of that broken light-bulb will have to wait until I can buy a new one.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -1640,7 +1751,16 @@
         "definition": "退步；挫折"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "After some initial setbacks, the expedition went safely on its way.",
+        "zh": ""
+      },
+      {
+        "en": "Setbacks were initially used for structural reasons, but now are often mandated by land use codes.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -1664,7 +1784,20 @@
         "definition": "定居；安顿；解决"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "to settle her estate",
+        "zh": ""
+      },
+      {
+        "en": "the weather settled;  wait until the crowd settles before speaking",
+        "zh": ""
+      },
+      {
+        "en": "the Saxons who settled in Britain",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -1688,7 +1821,12 @@
         "definition": "使心神不宁；使不安；扰乱"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "Don't unsettle the horses or they'll bolt.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
@@ -1809,7 +1947,7 @@
       }
     ],
     "examples": [],
-    "etymology": ""
+    "etymology": "From Old French . By surface analysis , conserve +‎ -ation ."
   },
   {
     "word": "view",
@@ -1852,8 +1990,21 @@
         "definition": "面试；接见"
       }
     ],
-    "examples": [],
-    "etymology": ""
+    "examples": [
+      {
+        "en": "The reporter gave the witness an interview.",
+        "zh": ""
+      },
+      {
+        "en": "It was a dreadful interview; I have no hope of getting the job.",
+        "zh": ""
+      },
+      {
+        "en": "He interviewed the witness.",
+        "zh": ""
+      }
+    ],
+    "etymology": "Etymology tree Proto-Indo-European *h₁én Proto-Indo-European *h₁entér Proto-Italic *n̥ter Latin inter Latin inter- der. Old French entre- Proto-Indo-European *weyd- Proto-Indo-European *-éh₁ti Proto-Indo-European *-yeti Proto-Indo-European *-éh₁yeti Proto-Indo-European *widéh₁yeti Proto-Italic *widē"
   },
   {
     "word": "interviewer",
@@ -1904,8 +2055,13 @@
         "definition": "视角；观点；（对事物的）合理判 断；透视；（远）景"
       }
     ],
-    "examples": [],
-    "etymology": ""
+    "examples": [
+      {
+        "en": "a perspective drawing",
+        "zh": ""
+      }
+    ],
+    "etymology": "From Middle English perspective, perspectif , attested since 1381, from Old French or Middle French , from the first word of the Medieval Latin perspectiva ars ( “ science of optics ” ) , the feminine of Latin perspectivus ( “ of sight, optical ” ) , from perspectus , the past participle of perspice"
   },
   {
     "word": "landscape",
@@ -1972,7 +2128,20 @@
         "definition": "停留；逗留"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "I hope you enjoyed your stay in Hawaii.",
+        "zh": ""
+      },
+      {
+        "en": "The governor granted a stay of execution.",
+        "zh": ""
+      },
+      {
+        "en": "stand at a stay",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {

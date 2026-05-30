@@ -1692,7 +1692,20 @@
         "definition": "下载"
       }
     ],
-    "examples": [],
+    "examples": [
+      {
+        "en": "The download took longer than I expected.",
+        "zh": ""
+      },
+      {
+        "en": "I got the download but it wouldn't work on my computer.",
+        "zh": ""
+      },
+      {
+        "en": "You can download a trial version of the program for thirty days to determine whether you want to purchase the full version.",
+        "zh": ""
+      }
+    ],
     "etymology": ""
   },
   {
